@@ -1,0 +1,2199 @@
+Text,Class
+What are the key strategies to educate and reform repeat cybersecurity offenders?,OE
+How can organizations identify the most impactful security awareness training programs for their end users?,OE
+Which attack techniques are most commonly used by cyber attackers to trick users into clicking on malicious links?,OE
+What measures can be taken to reduce an organization's susceptibility to phishing attacks and lower its phish-prone percentage?,OE
+What are the recommended best practices for enhancing email security and preventing phishing attempts?,OE
+How can businesses strengthen their cybersecurity posture to protect against emerging threats like ransomware?,OE
+What role does employee training play in improving overall cybersecurity resilience?,OE
+Are there specific security awareness tools or platforms that are highly effective in educating end users?,OE
+How can organizations measure the effectiveness of their cybersecurity training programs?,OE
+What steps can individuals take to enhance their personal cybersecurity hygiene?,OE
+What are the latest trends in cyber threats and vulnerabilities that organizations should be aware of?,OE
+Can you provide guidance on securing IoT devices to prevent potential security breaches?,OE
+"What are the most common social engineering techniques used by cybercriminals, and how can they be mitigated?",OE
+How can small businesses with limited resources improve their cybersecurity defenses?,OE
+What are the essential components of a robust incident response plan?,OE
+How can organizations proactively detect and defend against insider threats?,OE
+What are the key considerations when selecting a cybersecurity solution for a specific industry or use case?,OE
+What is the role of encryption in data protection and securing sensitive information?,OE
+How can organizations balance the need for data privacy with cybersecurity requirements?,OE
+"What are the legal and regulatory implications of a data breach, and how should organizations respond?",OE
+What are the fundamental principles of a strong cybersecurity strategy?,OE
+How can organizations enhance their network security to prevent unauthorized access?,OE
+What steps should individuals take to create strong and unique passwords for their online accounts?,OE
+Can you explain the concept of two-factor authentication (2FA) and its importance in cybersecurity?,OE
+How does a firewall work to protect a network from cyber threats?,OE
+"What are the risks associated with using public Wi-Fi networks, and how can they be mitigated?",OE
+What is the role of endpoint security in safeguarding devices and data from cyberattacks?,OE
+How can organizations prepare for and respond to a data breach incident effectively?,OE
+"What are the differences between white-hat, black-hat, and gray-hat hackers in the cybersecurity landscape?",OE
+How can individuals and businesses identify phishing emails and avoid falling victim to phishing scams?,OE
+What are the key elements of a secure software development lifecycle (SDLC)?,OE
+How can employees recognize and report suspicious activity or potential security threats within their organization?,OE
+Can you explain the concept of zero trust security and its relevance in modern cybersecurity?,OE
+What are the best practices for securely disposing of electronic devices and data to prevent data breaches?,OE
+How do security patches and software updates contribute to cybersecurity?,OE
+What role does cybersecurity play in protecting critical infrastructure such as power grids and healthcare systems?,OE
+How can organizations assess and manage third-party vendor risks in terms of cybersecurity?,OE
+What ethical considerations should cybersecurity professionals be mindful of in their work?,OE
+How can organizations ensure compliance with data protection regulations like GDPR and HIPAA?,OE
+"What emerging technologies and trends are shaping the future of cybersecurity, and how can businesses adapt to stay secure?",OE
+What's the recipe for a classic spaghetti Bolognese?,OC
+How can I improve my golf swing?,OC
+What are the best strategies for saving money on grocery shopping?,OC
+Can you recommend some must-read science fiction novels?,OC
+How do I train a new puppy to behave indoors?,OC
+What's the best way to grow tomatoes in a home garden?,OC
+What are the top travel destinations for adventure seekers?,OC
+Can you explain the theory of relativity in simple terms?,OC
+How can I learn to play the piano without formal lessons?,OC
+What are the health benefits of practicing yoga regularly?,OC
+How do I create a budget for my personal finances?,OC
+What are some eco-friendly practices for reducing household waste?,OC
+Can you suggest some ways to improve concentration and focus while studying?,OC
+What's the history behind the Great Wall of China?,OC
+How can I prepare a delicious vegetarian lasagna from scratch?,OC
+What are the key features to consider when buying a new smartphone?,OC
+Can you recommend a good workout routine for beginners at the gym?,OC
+How do I get started with meditation and mindfulness?,OC
+What are the steps to take when planning a family vacation?,OC
+Can you explain the basics of quantum mechanics in a nutshell?,OC
+What are the benefits of practicing daily gratitude?,OC
+How do I choose the right type of paint for a DIY home renovation project?,OC
+Can you suggest some effective time management techniques for professionals?,OC
+What are the best strategies for teaching children to read at an early age?,OC
+How can I create a beautiful flower arrangement for a special occasion?,OC
+What's the history behind the Eiffel Tower in Paris?,OC
+How do I make a homemade pizza with a crispy crust?,OC
+Can you recommend some classic films from the golden age of Hollywood?,OC
+What are the steps to take when planning a backyard barbecue?,OC
+How can I improve my photography skills without expensive equipment?,OC
+What are the key principles of sustainable living and eco-friendly practices?,OC
+How do I write an effective and persuasive cover letter for a job application?,OC
+Can you suggest some ways to relieve stress and unwind after a long day?,OC
+What are the basics of investing in the stock market for beginners?,OC
+How do I choose the right type of flowers for a wedding bouquet?,OC
+What's the history behind the ancient city of Rome and its architecture?,OC
+How can I make a homemade ice cream with unique flavors?,OC
+What are the best practices for organizing and decluttering a home workspace?,OC
+Can you recommend some classic literature books for summer reading?,OC
+How do I create a visually appealing and informative infographic for a presentation?,OC
+What is my user's Susceptibility against attacks/ Phish-prone / prone percentage/phish-prone percentage?,DB
+Which is the most run simulations/attack simulations/phishing campaigns/ anti-phishing campaigns? ,DB
+The most sent attack training videos?,DB
+Name the best email templates/payloads that can reduce the click rate / Phish-prone / prone percentage/phish-prone percentage? Or which email templates/payloads should I run to get the best results? ,DB
+Enlist/Name/provide the top compromised users in simulations/attack simulations/phishing campaigns/ anti-phishing campaigns. ,DB
+Enlist/Name/Provide the top repeated offenders.,DB
+Simulations/attack simulations/phishing campaigns/ anti-phishing campaigns run on how many users? Or what is my attack simulation coverage? Or how many users experienced the Simulations? ,DB
+What is my phishing awareness training/ cyber security awareness training completion rate? Or how many users completed the phishing awareness training/ cyber security awareness training? ,DB
+ Enlist/Name/Provide the recent run simulations/attack simulations/phishing campaigns/ anti-phishing campaigns.,DB
+What is the historical trend of my user's susceptibility against phishing attacks?,DB
+Can you provide statistics on the success rates of recent attack simulations?,DB
+"Which anti-phishing campaigns have yielded the highest success rates, and can you provide the data?",DB
+How many users have completed the most recent cybersecurity awareness training?,DB
+What is the average click rate for email templates used in recent phishing campaigns?,DB
+Can you list the top-performing anti-phishing email templates based on recent data?,DB
+What is the percentage of users who fell for the most recent phishing simulation?,DB
+Provide statistics on the most common vulnerabilities identified in recent attack simulations.,DB
+How many users have been involved in the latest round of anti-phishing campaigns?,DB
+What is the current phish-prone percentage for our user base?,DB
+Can you provide insights into the performance of our recent attack simulations in different departments?,DB
+What are the statistics on user engagement with recent cybersecurity training materials?,DB
+How many users have been affected by the most recent phishing campaigns?,DB
+What is the historical trend of user susceptibility by department or team?,DB
+Can you provide data on the top compromised users in recent phishing simulations?,DB
+What is the click rate distribution across various email templates used in campaigns?,DB
+How many users have completed the most recent round of phishing awareness training?,DB
+Can you list the most successful strategies used in recent anti-phishing campaigns?,DB
+What is the historical trend of phishing awareness training completion rates?,DB
+Provide statistics on the most common attack techniques used in recent simulations.,DB
+How many users were involved in the last series of attack simulations?,DB
+What is the success rate of the most recent phishing simulations by attack type?,DB
+Can you provide data on the most frequent repeat offenders in recent simulations?,DB
+"What is the current phish-prone percentage for specific user groups, if available?",DB
+List the recent attack simulations or campaigns with the highest engagement rates.,DB
+How many users participated in the latest cybersecurity awareness program?,DB
+What is the historical trend of successful anti-phishing measures implemented?,DB
+Provide insights into the demographics of users who fell for recent phishing simulations.,DB
+Can you list the most commonly targeted departments in recent attack simulations?,DB
+What are the statistics on user performance in recent anti-phishing drills?,DB
+How can organizations improve their incident response procedures?,OE
+What are the key steps to protect sensitive data from insider threats?,OE
+How can businesses effectively manage and monitor network traffic for security?,OE
+What measures can be taken to prevent phishing attacks on employees?,OE
+What are the emerging trends in cybersecurity threat landscape?,OE
+How should organizations approach security awareness training for employees?,OE
+What are the most common vulnerabilities in web applications and how to mitigate them?,OE
+What role does encryption play in data security and privacy?,OE
+How can organizations ensure the security of their remote work environments?,OE
+What are the best practices for securing Internet of Things (IoT) devices?,OE
+How can organizations defend against advanced persistent threats (APTs)?,OE
+What is the significance of threat intelligence in cybersecurity?,OE
+How can organizations strengthen their cloud security posture?,OE
+What are the risks associated with mobile device security in the workplace?,OE
+How can businesses protect themselves against ransomware attacks?,OE
+What are the challenges and solutions for identity and access management (IAM)?,OE
+What are the top cybersecurity certifications for professionals?,OE
+How can organizations effectively manage and monitor third-party vendor security?,OE
+What strategies can organizations implement to detect and prevent insider threats?,OE
+What is the role of artificial intelligence (AI) and machine learning (ML) in cybersecurity?,OE
+How can small businesses with limited resources improve their cybersecurity?,OE
+What are the best practices for securing sensitive customer data in e-commerce?,OE
+How should organizations handle security incidents and breaches?,OE
+What is the impact of regulatory compliance on cybersecurity practices?,OE
+How can organizations ensure secure software development practices?,OE
+What are the considerations for securing industrial control systems (ICS)?,OE
+How do cybersecurity professionals stay updated on the latest threats and technologies?,OE
+What is the importance of penetration testing in assessing security vulnerabilities?,OE
+How can organizations effectively protect against distributed denial of service (DDoS) attacks?,OE
+What measures can individuals take to enhance their personal online security?,OE
+How do you assess the security of a wireless network?,OE
+What are the key principles of secure coding and software development?,OE
+How can organizations secure their data in transit and at rest?,OE
+What are the potential security risks associated with social engineering attacks?,OE
+How do you evaluate the security of a mobile app before downloading it?,OE
+What role do security policies and procedures play in cybersecurity?,OE
+How can organizations build a strong cybersecurity culture among employees?,OE
+What are the challenges and solutions for securing legacy systems?,OE
+How should organizations handle vulnerabilities and patch management?,OE
+What are the key components of a disaster recovery and business continuity plan?,OE
+How can organizations protect against insider threats from privileged users?,OE
+What are the security implications of remote work and Bring Your Own Device (BYOD) policies?,OE
+What is the role of threat modeling in cybersecurity risk assessment?,OE
+How do you evaluate the security of a website or web application?,OE
+What are the best practices for securing email communications and attachments?,OE
+How can organizations prevent data leakage and protect intellectual property?,OE
+What is the impact of supply chain security on overall cybersecurity?,OE
+How should organizations handle security incidents involving customer data?,OE
+What are the challenges and strategies for securing critical infrastructure?,OE
+How can organizations effectively monitor and respond to security alerts and events?,OE
+What are the health benefits of practicing mindfulness meditation?,OC
+How do you choose the perfect wedding venue for your big day?,OC
+What are some effective techniques for improving your golf swing?,OC
+How can you make the best homemade pizza from scratch?,OC
+What are the key ingredients for a successful career in the entertainment industry?,OC
+How do you maintain a healthy work-life balance as a busy professional?,OC
+What are the best strategies for organizing and decluttering your home?,OC
+How can you create a budget-friendly travel itinerary for a European vacation?,OC
+What are the essential tools and tips for beginner gardeners?,OC
+How do you prepare a delicious vegetarian lasagna for a dinner party?,OC
+What are the benefits of learning a musical instrument as an adult?,OC
+How can you effectively train and discipline a new puppy?,OC
+What are the top-rated books for personal development and growth?,OC
+How do you choose the right university and major for your career goals?,OC
+What are the steps to planning an adventurous backpacking trip?,OC
+How can you improve your photography skills and capture stunning landscapes?,OC
+What are the latest trends in sustainable fashion and eco-friendly clothing brands?,OC
+How do you build a strong and supportive social network in a new city?,OC
+What are the health benefits of practicing yoga and meditation regularly?,OC
+How can you prepare a mouthwatering barbecue feast for a summer cookout?,OC
+What are the essential ingredients for a successful homemade skincare routine?,OC
+How do you choose the ideal smartphone for your specific needs and preferences?,OC
+What are the strategies for acing job interviews and landing your dream job?,OC
+How can you effectively manage and reduce stress in your daily life?,OC
+What are the key considerations for planning a memorable family reunion?,OC
+How do you select the right fitness program to achieve your fitness goals?,OC
+What are the top travel destinations for experiencing different cultures and cuisines?,OC
+How can you create a productive and inspiring home office space?,OC
+What are the benefits of volunteering for a cause you're passionate about?,OC
+How do you prepare a gourmet-style three-course meal for a special occasion?,OC
+What are the best practices for improving your credit score and financial health?,OC
+How can you plan a successful road trip adventure with friends or family?,OC
+What are the steps to becoming a skilled and confident public speaker?,OC
+How do you choose the perfect gift for a loved one's milestone celebration?,OC
+What are the strategies for teaching children valuable life skills and values?,OC
+How can you effectively plan and execute a DIY home renovation project?,OC
+What are the top strategies for setting and achieving personal fitness goals?,OC
+How do you choose the right pet for your family's lifestyle and preferences?,OC
+What are the benefits of practicing mindfulness and gratitude in your daily routine?,OC
+How can you create a stunning and Instagram-worthy home interior design?,OC
+What are the key considerations for planning a memorable cross-country road trip?,OC
+How do you select the best educational resources for homeschooling your children?,OC
+What are the essential tips for aspiring writers looking to publish their first book?,OC
+How can you organize and optimize your digital life for improved productivity?,OC
+What are the steps to planning a successful surprise party for a loved one?,OC
+How do you choose the ideal hiking trail for an adventurous weekend getaway?,OC
+What are the best strategies for effectively managing and reducing debt?,OC
+How can you create a personalized and effective workout routine for yourself?,OC
+What are the latest trends in sustainable living and eco-friendly lifestyle choices?,OC
+How do you plan a memorable and budget-friendly staycation in your own city?,OC
+What is the average click rate for the recent phishing campaigns?,DB
+Which user had the highest susceptibility to recent phishing attacks?,DB
+Provide statistics on the minimum and maximum completion times for the recent cyber security awareness training.,DB
+Name the top 5 users with the highest click rates in the last phishing campaign.,DB
+What is the most common type of phishing attack observed in recent simulations?,DB
+How many users have completed the latest anti-phishing training?,DB
+Enlist the top 10 users with the lowest phishing susceptibility percentage.,DB
+What is the average time it takes for a user to report a phishing email?,DB
+Which email template resulted in the lowest click rate in recent campaigns?,DB
+How many users participated in the last anti-phishing simulation?,DB
+What is the overall completion rate for the latest security awareness training?,DB
+Provide statistics on the minimum and maximum duration of the recent attack simulations.,DB
+Who are the top 3 repeated offenders in the recent anti-phishing campaigns?,DB
+What is the average susceptibility percentage for users in the last phishing simulation?,DB
+Which user had the highest click rate in the most recent phishing campaign?,DB
+How many users completed the latest cyber security training within the specified timeframe?,DB
+Enlist the top 5 compromised users in the recent attack simulations.,DB
+What is the most effective payload used in recent anti-phishing campaigns?,DB
+Provide statistics on the minimum and maximum duration of the recent phishing simulations.,DB
+How many users participated in the last anti-phishing campaign?,DB
+What is the average susceptibility percentage for users in recent simulations?,DB
+Which user had the highest susceptibility to recent attack simulations?,DB
+How many users completed the latest phishing awareness training?,DB
+Enlist the top 3 users with the highest click rates in recent phishing simulations.,DB
+What is the average time it takes for a user to complete the latest security training?,DB
+What is the maximum number of compromised users observed in recent phishing campaigns?,DB
+How many users have completed the most recent cyber security awareness training?,DB
+Provide statistics on the minimum and maximum click rates in recent anti-phishing campaigns.,DB
+What is the average completion time for users in the recent attack simulations?,DB
+Who are the top 10 repeated offenders in the recent phishing simulations?,DB
+What is the most common type of attack in recent anti-phishing campaigns?,DB
+How many users participated in the last attack simulation?,DB
+Enlist the top 5 users with the lowest phishing susceptibility percentages.,DB
+What is the average susceptibility percentage for users in recent anti-phishing simulations?,DB
+Which email template resulted in the highest click rate in the most recent phishing campaign?,DB
+What is the maximum number of compromised users observed in recent anti-phishing simulations?,DB
+How many users completed the latest phishing awareness training within the specified timeframe?,DB
+Provide statistics on the minimum and maximum completion times for the recent attack simulations.,DB
+What is the average click rate for the recent anti-phishing campaigns?,DB
+Which user had the lowest susceptibility to recent phishing attacks?,DB
+Enlist the top 3 users with the highest click rates in recent anti-phishing simulations.,DB
+What is the average completion time for users in recent anti-phishing campaigns?,DB
+How many users have completed the latest phishing training?,DB
+What is the most effective payload used in recent phishing campaigns?,DB
+Provide statistics on the minimum and maximum susceptibility percentages in recent simulations.,DB
+What is the maximum number of compromised users observed in recent attack simulations?,DB
+How many users participated in the last phishing campaign?,DB
+Enlist the top 10 users with the highest phishing susceptibility percentages.,DB
+What is the average susceptibility percentage for users in recent phishing simulations?,DB
+What is the maximum number of compromised users observed in recent phishing simulations?,DB
+How I can reduce my attack Susceptibility/ Phish-prone / prone percentage/phish-prone percentage? Or How I can educate my users/end users? Or How I can reduce the click rates of users/end users?,OE
+The best attack techniques to reduce the clicks? Or Most attack techniques by attackers? ,OE
+Which security awareness training has the most impact on the end users? Or how I can select the best security awareness training for end users? Or The best-recommended training by PHISHCODE. Or which security awareness training is effective for reducing phishing risk or provides awareness to end users.,OE
+Name the best email templates/payloads that can reduce the click rate / Phish-prone / prone percentage/phish-prone percentage? Or which email templates/payloads should I run to get the best results?,OE
+How we can educate repeat offenders?,OE
+Please provide the metrics about the latest Attack simulation/Simulation/Campaign/Anti-phishing campaign.,OE
+How frequently should we conduct phishing simulations or anti-phishing campaigns?,OE
+Can you suggest some tips for creating engaging and effective security awareness training content?,OE
+How can I measure the effectiveness of my organization's anti-phishing efforts?,OE
+What are some common signs of a phishing email that users should be trained to recognize?,OE
+How can I encourage employees to report suspicious emails promptly?,OE
+What role does employee awareness play in overall cybersecurity?,OE
+How can organizations stay updated on the latest phishing trends and attack techniques?,OE
+Can you recommend any tools or platforms to help organizations with phishing awareness and training?,OE
+How can I reduce my attack Susceptibility/ Phish-prone...?,OE
+The best attack techniques to reduce the clicks...?,OE
+Which security awareness training has the most impact...?,OE
+Name the best email templates/payloads that can reduce...?,OE
+How we can educate repeat offenders?,OE
+Please provide the metrics about the latest Attack simulation...?,OE
+How can I reduce my attack susceptibility or phish-prone percentage?,OE
+What are the most effective attack techniques to reduce click rates?,OE
+Which security awareness training is most impactful for end users?,OE
+What are the best email templates/payloads to reduce the click rate?,OE
+How can I educate repeat offenders in cybersecurity awareness?,OE
+What metrics are available for the latest anti-phishing campaign?,OE
+How frequently should we conduct phishing simulations or anti-phishing campaigns?,OE
+Can you suggest tips for creating engaging security awareness training content?,OE
+How can I measure the effectiveness of our anti-phishing efforts?,OE
+What are common signs of a phishing email that users should recognize?,OE
+How can I encourage employees to report suspicious emails promptly?,OE
+What role does employee awareness play in overall cybersecurity?,OE
+How can organizations stay updated on the latest phishing trends and attack techniques?,OE
+Can you recommend tools or platforms for phishing awareness and training?,OE
+What role do simulated phishing campaigns play in user education?,OE
+How can I tailor phishing awareness training to different departments in my organization?,OE
+Are there any industry-specific phishing threats that organizations should be aware of?,OE
+How can I encourage a security-aware culture within my organization?,OE
+Can you provide examples of real-world phishing scenarios for training purposes?,OE
+How can organizations ensure that their security awareness training stays up to date with evolving threats?,OE
+What steps can employees take to verify the authenticity of an email before taking any action?,OE
+How can organizations balance security awareness training with employee productivity?,OE
+Are there any legal and compliance considerations organizations should keep in mind when conducting phishing simulations?,OE
+What strategies can organizations use to reinforce security awareness training over time?,OE
+Retrieve all training templates.,DB
+Find the details of a specific training template.,DB
+List all training templates that are for phishing.,DB
+Retrieve the title and description of training templates with thumbnails.,DB
+Count the total number of training templates.,DB
+Retrieve training hub templates.,DB
+Find training templates associated with a specific training hub.,DB
+Find training hubs that have associated templates.,DB
+Find training templates that have no associated training hub.,DB
+Retrieve training templates with their associated file paths.,DB
+List all training templates created after a specific date.,DB
+"Retrieve the titles of training templates that belong to a particular category (e.g., ""Security"").",DB
+Find the total count of training templates that are not for phishing and have thumbnails.,DB
+Retrieve the IDs and descriptions of training templates associated with a specific training hub.,DB
+Find training hubs that have more than 5 associated templates.,DB
+Retrieve training templates ordered by their creation date in descending order.,DB
+List training templates that have a compromise rate greater than 0.75.,DB
+"Retrieve training templates with their associated file paths and thumbnails, ordered by their title.",DB
+Find training templates that have the same title as another template.,DB
+Count the number of training hub templates for each training hub.,DB
+List all projects that are currently enabled.,DB
+Retrieve the name and description of a specific project by its ID.,DB
+Find the project lead's ID for a specific project by its name.,DB
+Count the total number of projects in the database.,DB
+List all projects with their company IDs.,DB
+Retrieve project details for projects owned by a specific admin.,DB
+Find projects that belong to a specific company by its ID.,DB
+Retrieve the name and type of projects that have avatars.,DB
+List projects along with the names of their project leads.,DB
+Find the projects that have the same project lead as another project.,DB
+List all admins who are associated with at least one project.,DB
+Retrieve the names and descriptions of projects owned by super admins.,DB
+Find the total number of admins associated with a specific project.,DB
+List all projects that do not have a company association.,DB
+Retrieve project details and company information for projects with avatars.,DB
+Find the names and emails of admins associated with a specific project.,DB
+List all projects that are of a specific type.,DB
+Retrieve the names and descriptions of projects owned by a specific admin.,DB
+Find the names and email addresses of project leads for all projects.,DB
+Count the total number of projects in each project type category.,DB
+Retrieve all training templates with their titles and descriptions.,DB
+List the IDs and file path IDs of training templates.,DB
+Find the total number of training templates.,DB
+Retrieve training templates that are marked as phishing.,DB
+"Get the file extensions and MIME types of all documents in the ""Documents"" table.",DB
+"List the node references and original names of documents in the ""Documents"" table.",DB
+Retrieve documents with a size greater than a specific value.,DB
+Find the documents with a specified file extension.,DB
+Get the total duration (in seconds) of all documents.,DB
+Retrieve training templates along with their associated document file paths and sizes.,DB
+List the IDs and original names of documents that have no associated training templates.,DB
+Find the titles and descriptions of training templates that were created before a specific date.,DB
+Retrieve the IDs of documents that have a MIME type matching a specific value.,DB
+"List the names, sizes, and extensions of documents ordered by size in descending order.",DB
+Get the total count of documents with a specific MIME type.,DB
+Find training templates that have both a file path and a thumbnail assigned.,DB
+Retrieve documents with a size between two specific values.,DB
+List the original names and extensions of documents that have a specific extension and are larger than a certain size.,DB
+"Find the average size of all documents in the ""Documents"" table.",DB
+Get training templates that have been updated since a specific date.,DB
+Retrieve documents along with the total duration (in seconds) of all documents ordered by duration in ascending order.,DB
+"Retrieve the total number of campaigns in the ""Campaign"" table.",DB
+Find the names and owners of campaigns that have been executed.,DB
+List the campaign names and subjects where the subject contains a specific keyword.,DB
+"Get the unique campaign IDs from the ""Campaigns Log"" table.",DB
+Retrieve campaigns that are scheduled and have reminders enabled.,DB
+Find campaigns created by a specific owner.,DB
+Get the names and launch statuses of campaigns ordered by name in ascending order.,DB
+List campaign names and their associated email profile IDs.,DB
+Find campaigns with auto-training enabled and specify the auto training IDs.,DB
+Retrieve campaign names and execution statuses for campaigns that have been executed and have custom templates.,DB
+"Count the total number of trained users for campaigns in the ""Campaigns Log"" table.",DB
+List campaign names and their associated project IDs.,DB
+Find campaigns with reminders and specify the frequency of reminders.,DB
+Retrieve campaigns created within a specific timezone.,DB
+Get the campaign names and their respective attack technique IDs.,DB
+List campaign names and their total user counts in descending order of total users.,DB
+Find campaigns with a specific email profile ID.,DB
+Retrieve the campaign names and the number of caught users for campaigns that have caught users greater than a specific value.,DB
+"List campaign names and the IDs of their associated projects after creating an index on the ""project_id"" column.",DB
+"Add a foreign key constraint to the ""Campaigns Log"" table to reference the ""Campaign"" table's ID column.",DB
+"Find the total number of admins in the ""Admins"" table.",DB
+Retrieve the email and last name of all activated admins.,DB
+List the first names and job roles of admins who are super admins.,DB
+Get the unique usernames of all admins.,DB
+Find admins with a specific job role.,DB
+Retrieve the last names and email addresses of admins in descending order of their last names.,DB
+List the email addresses and phone numbers of admins with a specified role ID.,DB
+Find admins who work for a specific company based on the company ID.,DB
+Get the first names and usernames of admins with a specific job role and who are super admins.,DB
+Retrieve the email addresses and last names of admins whose last names contain a specific keyword.,DB
+List the usernames and phone numbers of super admins working for a particular company based on the company ID.,DB
+Find admins with a specified role ID and who have been activated.,DB
+Retrieve the email addresses and job roles of admins whose first names contain a specific keyword and who are not super admins.,DB
+List the usernames and email addresses of admins who have been verified within a specific time frame.,DB
+"Find admins with a specific job role and who are super admins, and their corresponding role IDs.",DB
+Retrieve the email addresses and job roles of admins working for a particular company and who have been activated.,DB
+List the usernames and phone numbers of admins who have a specific role ID and work for a particular company based on the company ID.,DB
+"Find admins with a specific job role, super admins, and who work for a particular company based on the company ID.",DB
+"Retrieve the last names and email addresses of admins with a specific job role, working for a particular company, and who have been activated.",DB
+"Find the total number of entries in the ""Training Hub"" table.",DB
+"Retrieve the IDs and creation timestamps of all entries in the ""Training Videos"" table.",DB
+List the names and descriptions of training videos that are enabled.,DB
+Get the IDs and creation timestamps of training hub entries with training templates.,DB
+"Find the unique names of training videos in the ""Training Videos"" table.",DB
+Retrieve the names and poster IDs of training videos that are not enabled.,DB
+List the IDs and update timestamps of training hub entries that have associated training templates.,DB
+Get the descriptions and path IDs of training videos with specific names.,DB
+Find training hub entries with associated training templates and creation timestamps within a specific time range.,DB
+Retrieve the names and poster IDs of training videos with unique names.,DB
+List the IDs and creation timestamps of training hub entries associated with training templates and not enabled.,DB
+Get the descriptions and path IDs of training videos whose names start with a specific prefix.,DB
+Find training hub entries with associated training templates and update timestamps that fall within a specific time range.,DB
+Retrieve the names and poster IDs of training videos with descriptions containing a specific keyword.,DB
+List the IDs and update timestamps of training hub entries with training templates that are not enabled.,DB
+Get the descriptions and path IDs of training videos that have a specific poster ID.,DB
+Find training hub entries with associated training templates and creation timestamps where the training videos are enabled.,DB
+Retrieve the names and poster IDs of training videos with a specific path ID.,DB
+List the IDs and creation timestamps of training hub entries with training templates where the associated training videos have specific names.,DB
+Get the descriptions and path IDs of training videos with poster IDs that are associated with specific documents.,DB
+Retrieve all email templates with their titles and descriptions.,DB
+List all enabled attack techniques along with their descriptions.,DB
+Find the total number of email templates in the database.,DB
+Get the names and icons of attack techniques that are not enabled.,DB
+Retrieve email templates with compromise rates greater than 0.5.,DB
+List all unique attack technique names.,DB
+Find email templates with specific brands and industries.,DB
+Get the icons and descriptions of attack techniques that have a unique name.,DB
+Retrieve email templates with compromise rates between 0.1 and 0.3.,DB
+"List all attack techniques with descriptions containing the word ""phishing.""",DB
+Find email templates created after a specific timestamp.,DB
+Get the names and descriptions of attack techniques that are not enabled and have descriptions longer than 50 characters.,DB
+Retrieve email templates with specific subject lines.,DB
+List all attack techniques with unique names.,DB
+Find email templates with specific brands and themes.,DB
+Get the names and icons of attack techniques with icons that are not null.,DB
+Retrieve email templates with descriptions that contain a specific keyword.,DB
+List all enabled attack techniques ordered by their descriptions in ascending order.,DB
+Find email templates with titles containing a specific phrase.,DB
+Get the names and descriptions of attack techniques with descriptions similar to a specific one.,DB
+Retrieve all email templates.,DB
+Find the document with a specific ID.,DB
+List all enabled email templates.,DB
+Get the total number of email templates.,DB
+Retrieve the titles and descriptions of email templates.,DB
+Find email templates with a compromise rate greater than 0.5.,DB
+List documents with a size greater than 1000.,DB
+Get the names and themes of email templates with a subject containing 'security'.,DB
+Find email templates associated with a specific technique ID.,DB
+"Retrieve documents with specific extensions (e.g., PDF or DOCX).",DB
+List email templates that have associated thumbnails.,DB
+Find documents with a specific original name.,DB
+Get email templates with a compromise rate between 0.2 and 0.5.,DB
+Retrieve documents with a specific MIME type.,DB
+Find email templates created after a certain timestamp.,DB
+List documents with a specific node reference.,DB
+Get email templates with unique brands.,DB
+Find documents with a specific path.,DB
+Retrieve email templates sorted by compromise rate in descending order.,DB
+Find documents with a specific extension and size.,DB
+Retrieve all admin users.,DB
+Find the admin with a specific username.,DB
+List all enabled admin users.,DB
+Get the total number of admin users.,DB
+Retrieve the first and last names of admin users.,DB
+Find admin users with the job role 'Manager'.,DB
+List admins who are super admins.,DB
+Get admin users with a specific phone number.,DB
+Find admin users with activated accounts.,DB
+Retrieve admins who belong to a specific company ID.,DB
+List admin users who have a role with a specific name.,DB
+Find admins with a specific email address.,DB
+Get admin users who were verified before a certain timestamp.,DB
+Retrieve admins sorted by their last names in ascending order.,DB
+List admin users with unique job roles.,DB
+Find admins who are not super admins and belong to a specific company.,DB
+Get admin users who have not been activated.,DB
+Find admin users with specific first names and last names.,DB
+Retrieve admins with usernames that start with 'admin'.,DB
+List admin users who have a specific role ID.,DB
+Retrieve all training videos.,DB
+Find the details of a specific training video by its unique name.,DB
+List all enabled training videos.,DB
+Get the total number of training videos.,DB
+Retrieve the descriptions of all training videos.,DB
+Find training videos with a specific description.,DB
+List training videos with a specific poster ID.,DB
+Get training videos with a specific path ID.,DB
+Find training videos created after a certain timestamp.,DB
+Retrieve training videos with unique names.,DB
+List training videos with descriptions containing a specific keyword.,DB
+Find training videos with a specific poster ID and path ID.,DB
+Retrieve training videos sorted by their names in ascending order.,DB
+List training videos sorted by their creation timestamps in descending order.,DB
+Find training videos with a specific poster ID or path ID.,DB
+Get training videos with descriptions that do not contain a specific keyword.,DB
+Retrieve training videos that are not enabled.,DB
+List training videos with descriptions that are NULL.,DB
+Find training videos with specific names and descriptions.,DB
+Retrieve all campaigns.,DB
+Find a campaign by its unique ID.,DB
+List all enabled campaigns.,DB
+Get the total number of campaigns.,DB
+Retrieve the names of all campaigns.,DB
+Find campaigns with a specific name.,DB
+List campaigns associated with a specific project.,DB
+Get campaigns with a specific technique ID.,DB
+Find campaigns created after a certain timestamp.,DB
+Retrieve campaigns sorted by their names in ascending order.,DB
+List campaigns sorted by their creation timestamps in descending order.,DB
+Find campaigns with a specific owner and status.,DB
+Get campaigns with a specific email profile ID.,DB
+Retrieve campaigns with custom templates.,DB
+List campaigns with scheduled launches.,DB
+Find campaigns with auto-training enabled.,DB
+Get campaigns with reminders.,DB
+Retrieve campaigns with specific timezones.,DB
+Find campaigns that are not enabled.,DB
+List campaigns with an auto-training ID or reminders.,DB
+Retrieve all users.,DB
+Find a user by their unique ID.,DB
+List all enabled users.,DB
+Get the total number of users.,DB
+Retrieve the first and last names of all users.,DB
+Find users with a specific email.,DB
+List users associated with a specific company.,DB
+Get users with a specific project ID.,DB
+Find users with a specific role ID.,DB
+Retrieve users who are offended and compromised.,DB
+List users with a specific project and role.,DB
+Find users created after a certain timestamp.,DB
+Get users who are simulated but not compromised.,DB
+Retrieve users sorted by their last names in ascending order.,DB
+List users sorted by their creation timestamps in descending order.,DB
+Find users with a specific country and industry in their company.,DB
+Get users with a specific company size range.,DB
+Retrieve users who are not enabled.,DB
+Find users without a project association.,DB
+Retrieve all admin-project associations.,DB
+Find an admin-project association by admin ID and project ID.,DB
+List all enabled admin-project associations.,DB
+Get the total number of admin-project associations.,DB
+Retrieve admin-project associations for a specific admin.,DB
+List admin-project associations for a specific project.,DB
+Find admin-project associations for a specific company.,DB
+Get admin-project associations for a specific project type.,DB
+Retrieve admin-project associations created after a certain timestamp.,DB
+List admin-project associations with a specific project lead.,DB
+Find admin-project associations where the admin is a super admin.,DB
+Get admin-project associations for projects with a specific avatar.,DB
+Retrieve admin-project associations with a specific project URL.,DB
+List admin-project associations for projects with a certain description.,DB
+Find admin-project associations for projects of a specific company size.,DB
+Get admin-project associations for projects of a specific project name.,DB
+Retrieve admin-project associations for projects with a certain project type and an admin's job role.,DB
+List admin-project associations for projects of a specific industry and owned by a super admin.,DB
+Find admin-project associations for projects that have no company associated.,DB
+Retrieve all groups.,DB
+Find a group by its ID.,DB
+List all enabled groups.,DB
+Get the total number of groups.,DB
+Retrieve groups with a specific name.,DB
+List groups for a specific project.,DB
+Find groups with a certain description.,DB
+Get groups created after a certain timestamp.,DB
+Retrieve groups with a specific name and description.,DB
+List groups for projects of a specific project type.,DB
+Find groups associated with projects owned by a specific company.,DB
+Get groups with a name similar to a specific keyword.,DB
+Retrieve groups with names in a list of specific names.,DB
+List groups for projects with a specific avatar.,DB
+Find groups for projects with a specific URL.,DB
+Get groups sorted by their creation date in descending order.,DB
+Retrieve groups for projects of a certain project lead.,DB
+List groups for projects owned by companies of a specific industry.,DB
+Find groups with descriptions containing specific keywords.,DB
+Get groups for projects with a specific project type and owned by a specific company size.,DB
+Retrieve all admins.,DB
+Find an admin by their ID.,DB
+List all enabled admins.,DB
+Get the total number of admins.,DB
+Retrieve admins with a specific first name.,DB
+List admins for a specific company.,DB
+Find admins with a certain job role.,DB
+Get admins created after a certain timestamp.,DB
+Retrieve admins with a specific email address.,DB
+List admins who are super admins.,DB
+Find admins with a last name similar to a specific keyword.,DB
+Get admins with usernames containing a specific keyword.,DB
+Retrieve admins with both a first name and last name matching specific values.,DB
+List admins for projects with a specific project type.,DB
+Find admins associated with a project owned by a specific company.,DB
+Get admins sorted by their creation date in descending order.,DB
+Retrieve admins who are not super admins.,DB
+List admins for projects with a specific avatar.,DB
+Find admins who have been activated.,DB
+Retrieve all training templates.,DB
+Find a training template by its ID.,DB
+List enabled training templates.,DB
+Get the total number of training templates.,DB
+Retrieve training templates with a specific title.,DB
+List training templates that are phishing simulations.,DB
+Find training templates with a certain description.,DB
+Get training templates created after a certain timestamp.,DB
+Retrieve training templates with a specific file path ID.,DB
+List training templates with a thumbnail ID matching a specific value.,DB
+Find training templates with a description containing a specific keyword.,DB
+Get training templates with a title similar to a specific keyword.,DB
+Retrieve training templates created after a specific date and are enabled.,DB
+List training templates with a certain MIME type.,DB
+Find training templates that are not phishing simulations.,DB
+Get training templates sorted by their creation date in ascending order.,DB
+Retrieve training templates with specific file path and thumbnail IDs.,DB
+List training templates with a specific extension.,DB
+Find training templates with a title similar to a specific keyword and are enabled.,DB
+Retrieve all users.,DB
+Find a user by their ID.,DB
+List enabled users.,DB
+Get the total number of users.,DB
+Retrieve users with a specific email address.,DB
+List users belonging to a certain project.,DB
+Find users who are offended.,DB
+Get users with a specific first name.,DB
+Retrieve users created after a specific timestamp.,DB
+List users belonging to a certain group.,DB
+Find users who are compromised and belong to a specific project.,DB
+Get users with a specific role ID.,DB
+Retrieve users with a specific last name.,DB
+List users who are neither offended nor compromised.,DB
+Find users who are simulated and belong to a certain project and have a specific role.,DB
+Get users who are offended or compromised.,DB
+Retrieve users created before a specific date and are enabled.,DB
+List users who belong to multiple groups.,DB
+Find users who are compromised and belong to a group with a specific name.,DB
+Retrieve all campaign email templates.,DB
+Find a campaign email template by its ID.,DB
+List enabled campaign email templates.,DB
+Get the total number of campaign email templates.,DB
+Retrieve campaign email templates for a specific campaign.,DB
+Find campaign email templates associated with a specific email template.,DB
+List campaign email templates with a custom template.,DB
+Get campaign email templates created after a specific timestamp.,DB
+Retrieve campaign email templates for campaigns that are scheduled.,DB
+List campaign email templates for campaigns with a specific status.,DB
+Find campaign email templates associated with email templates of a certain brand.,DB
+Get campaign email templates for campaigns of a specific type.,DB
+Retrieve campaign email templates for campaigns with a custom template and a specific subject.,DB
+List campaign email templates for campaigns with a compromise rate above a certain value.,DB
+Find campaign email templates with custom templates that reference specific documents.,DB
+Get campaign email templates associated with email templates from a certain industry.,DB
+Retrieve campaign email templates for campaigns in a specific timezone.,DB
+List campaign email templates with custom templates longer than a specific length.,DB
+Find campaign email templates associated with email templates that have a compromise rate within a certain range.,DB
+Retrieve all user-group associations.,DB
+Find user-group associations for a specific user.,DB
+List enabled user-group associations.,DB
+Get the total number of user-group associations.,DB
+Retrieve user-group associations for a specific group.,DB
+Find user-group associations where the user belongs to a certain project.,DB
+List user-group associations where the group is described with specific text.,DB
+Get user-group associations created after a specific timestamp.,DB
+Retrieve user-group associations for users with specific roles.,DB
+List user-group associations for users who are offended or compromised.,DB
+Find user-group associations for users in a specific project and group.,DB
+Get user-group associations for users with a certain email domain.,DB
+Retrieve user-group associations for groups in a specific project and with specific names.,DB
+List user-group associations for users and groups with certain criteria.,DB
+Find user-group associations for users and groups that have been updated recently.,DB
+Get user-group associations for users and groups with a certain description and project ID.,DB
+Retrieve user-group associations for users who are members of multiple groups.,DB
+List user-group associations for groups that are enabled and in a specific project.,DB
+Find user-group associations for users who are part of groups in a specific project and have a certain role.,DB
+Retrieve all user IDs who were caught in any campaign.,DB
+Find the total number of campaigns that have been executed.,DB
+List all campaigns with custom templates.,DB
+Get the names of campaigns that were scheduled.,DB
+Find campaigns launched by a specific owner.,DB
+Retrieve campaign IDs with a specific status code.,DB
+List campaigns with auto-training enabled.,DB
+Get campaign names with reminders enabled and a specific frequency.,DB
+Find campaigns in a specific timezone.,DB
+Retrieve all user IDs who have received training.,DB
+Find campaigns that were launched after a specific timestamp.,DB
+List campaigns that are not scheduled and have a specific subject.,DB
+Get the campaign IDs associated with a specific project.,DB
+Retrieve campaign IDs with auto-training and reminders enabled.,DB
+Find campaigns of a specific type.,DB
+List campaigns with a specific technique ID and owner.,DB
+Get campaign names with a specific email profile ID.,DB
+Find campaigns with reminders enabled and a specific number.,DB
+Retrieve user IDs who have training in progress.,DB
+Find campaigns executed before a specific timestamp.,DB
+Retrieve all admin IDs belonging to a specific group.,DB
+List all admin IDs associated with a particular project.,DB
+Get the names of all groups.,DB
+Find the admin IDs belonging to multiple groups.,DB
+Retrieve all project IDs assigned to a specific admin.,DB
+List the names of groups with a specific description.,DB
+Find admin IDs who are members of both Group A and Group B.,DB
+Get all project IDs associated with a specific admin.,DB
+Find groups that are enabled.,DB
+Retrieve admin IDs who are part of any group.,DB
+List all admin IDs associated with a project with a specific name.,DB
+Get the names of groups associated with a project.,DB
+Find admin IDs who are members of either Group X or Group Y.,DB
+List all admin IDs who are not assigned to any project.,DB
+Retrieve project IDs associated with groups having a specific description.,DB
+Find admin IDs who are members of Group Z but not Group W.,DB
+Get the names of groups associated with any project.,DB
+Find the admin IDs who are not part of any group.,DB
+List all project IDs associated with enabled groups.,DB
+Retrieve all offended techniques.,DB
+List all attack techniques.,DB
+Get the count of offended techniques for a specific project.,DB
+Find the description of an attack technique by its name.,DB
+Retrieve offended techniques with counts greater than a certain value.,DB
+List the names of all attack techniques.,DB
+Find the IDs of offended techniques associated with a specific project.,DB
+Get the icon of an attack technique by its name.,DB
+Retrieve offended techniques for a project with counts exceeding a threshold.,DB
+List the IDs of all attack techniques.,DB
+Find the names of offended techniques associated with a specific project.,DB
+Get the description and icon of an attack technique by its name.,DB
+Retrieve offended techniques for a project ordered by count in descending order.,DB
+List the names of attack techniques with enabled status.,DB
+Find the count of offended techniques associated with a specific project and attack technique name.,DB
+Get the unique icon of an attack technique by its name.,DB
+Retrieve the IDs and counts of offended techniques for projects with enabled status.,DB
+List the names of attack techniques with descriptions containing a specific keyword.,DB
+Find the average count of offended techniques across all projects.,DB
+Retrieve all training hub templates.,DB
+List all training hubs.,DB
+Find the training hub templates for a specific training.,DB
+Get the details of a specific training hub by its ID.,DB
+Retrieve all training hub templates associated with a specific template.,DB
+List the IDs of all training hubs.,DB
+Find the training hub templates for a training with a specific ID.,DB
+Get the video ID of a specific training hub.,DB
+Retrieve training hub templates for trainings with a specific template ID.,DB
+List the IDs of all training hub templates.,DB
+Find the training hubs with enabled status.,DB
+Get the details of a training hub with a specific video ID.,DB
+Retrieve training hub templates for trainings with a specific training ID and template ID.,DB
+List the names of all training hubs.,DB
+Find the training hub templates for trainings with a specific template title.,DB
+Get the number of training hubs with enabled status.,DB
+Retrieve training hub templates for a specific training and templates with phishing content.,DB
+List the descriptions of all training hubs.,DB
+Find the average count of training hub templates across all trainings.,DB
+Retrieve all offended techniques.,DB
+List all projects.,DB
+Find the count of offended techniques for a specific project.,DB
+Get the details of a specific project by its ID.,DB
+Retrieve all offended techniques associated with a specific attack technique.,DB
+List the IDs of all projects.,DB
+Find the count of offended techniques for a specific attack technique.,DB
+Get the project name of a specific project.,DB
+Retrieve offended techniques for projects with a specific project type.,DB
+List the names of all projects.,DB
+Find the total count of offended techniques.,DB
+Get the project description of a specific project.,DB
+Retrieve offended techniques for projects with a specific project lead ID.,DB
+List the types of all projects.,DB
+Find the average count of offended techniques across all projects.,DB
+Retrieve offended techniques for projects with a specific company ID and a count greater than a certain value.,DB
+Get the project lead ID of a specific project.,DB
+Retrieve offended techniques for projects with a specific project name and project type.,DB
+Find the maximum count of offended techniques across all projects.,DB
+List all users.,DB
+List all projects.,DB
+Find a user by their email.,DB
+Get details of a project by its ID.,DB
+List all users in a specific project.,DB
+Find a project by its name.,DB
+Retrieve users with a specific role.,DB
+Find projects with a specific type.,DB
+Get users belonging to a specific company.,DB
+Retrieve projects with a specific description.,DB
+Find users who are offended.,DB
+List all projects with a specific avatar.,DB
+Find users who are both compromised and simulated.,DB
+Get the project lead ID for a specific project.,DB
+Retrieve projects with a specific URL.,DB
+Find users who are not enabled.,DB
+List all projects with a unique company ID.,DB
+Find users who are enabled and not compromised.,DB
+Get the company ID for a specific project.,DB
+Retrieve projects with a specific project lead ID.,DB
+List all campaigns.,DB
+List all training hubs.,DB
+Find a campaign by its name.,DB
+Get details of a training hub by its ID.,DB
+List all scheduled campaigns.,DB
+Find training hubs with training templates.,DB
+Retrieve campaigns owned by a specific user.,DB
+Find training hubs with specific video IDs.,DB
+Get the execution status of a campaign.,DB
+Find training hubs with enabled status.,DB
+List all campaigns with custom templates.,DB
+Retrieve training hubs with specific timestamps.,DB
+Find campaigns using a specific email profile.,DB
+Get the campaign ID for a specific training hub.,DB
+Retrieve campaigns with specific techniques.,DB
+Find training hubs with a certain number of templates.,DB
+Get the project ID for a specific campaign.,DB
+List all campaigns with reminders enabled.,DB
+Find training hubs with specific video IDs and timestamps.,DB
+List all users who were caught in any campaign.,DB
+Retrieve user details by email address.,DB
+Find all campaigns in which a specific user participated.,DB
+List all users who have not been compromised.,DB
+Get the number of users in the system.,DB
+Find users who are both offended and compromised.,DB
+Retrieve users who belong to a specific project.,DB
+List all users who have been trained but have not sent training.,DB
+Find users who have a specific role.,DB
+Get the total number of users who opened emails in any campaign.,DB
+Retrieve users who are neither offended nor compromised.,DB
+Find users who have participated in campaigns with a specific status.,DB
+List all users who have not been simulated.,DB
+Find users who belong to a specific company.,DB
+Retrieve users who have been trained and have sent training.,DB
+Find users who have participated in campaigns with a specific technique.,DB
+List all users who have been caught but have not been trained.,DB
+Get the number of users who have been compromised.,DB
+Retrieve users who are associated with both a company and a project.,DB
+Find users who have participated in campaigns within a specific timezone.,DB
+Retrieve all campaigns that are enabled.,DB
+Find campaigns that have custom templates.,DB
+List campaigns that are scheduled.,DB
+Get the names of campaigns that have been executed.,DB
+Find campaigns owned by a specific user.,DB
+Retrieve campaigns with a specific status.,DB
+List campaigns that are launched.,DB
+Find campaigns that have reminders enabled.,DB
+Get the names of campaigns that use a specific email profile.,DB
+Retrieve campaigns with a specific technique ID.,DB
+List campaigns that are auto-training enabled.,DB
+Find campaigns executed in a specific timezone.,DB
+Get the names of campaigns executed after a specific date.,DB
+Retrieve campaigns owned by super admins.,DB
+List campaigns with a specific email profile and status.,DB
+Find campaigns with a specific auto-training ID.,DB
+Get the names of campaigns owned by a user with a specific job role.,DB
+Retrieve campaigns with a specific subject and type.,DB
+List campaigns that have reminders with a specific frequency.,DB
+Find campaigns executed by users who are not super admins.,DB
+Retrieve all training videos.,DB
+Find the names of enabled training videos.,DB
+List training videos with a specific description.,DB
+Get the names of training videos with a specific poster ID.,DB
+Find training videos with a specific path ID.,DB
+Retrieve training videos with a specific name.,DB
+List training videos created after a specific date.,DB
+Get the names of training videos with a specific duration.,DB
+Find training videos with a specific MIME type.,DB
+Retrieve training videos with a specific extension.,DB
+List training videos with a specific poster ID and duration.,DB
+Find training videos with a specific original name.,DB
+Get the names of training videos with a specific node reference.,DB
+Retrieve training videos with a specific description and extension.,DB
+List training videos with a specific size.,DB
+Find training videos with a specific path ID and MIME type.,DB
+Get the names of training videos created before a specific date.,DB
+Retrieve training videos with a specific poster ID and name.,DB
+List training videos with a specific original name and node reference.,DB
+Retrieve all email templates.,DB
+Find enabled email templates.,DB
+List email templates with a specific description.,DB
+Get the titles of email templates with a specific technique ID.,DB
+Find email templates with a specific industry.,DB
+Retrieve email templates with a specific brand and source.,DB
+List email templates with a specific subject and theme.,DB
+Find email templates with a compromise rate above a specific value.,DB
+Get the descriptions of email templates with a specific file ID.,DB
+Retrieve email templates with a specific thumbnail ID and compromise rate.,DB
+Find email templates with a specific title and industry.,DB
+List email templates with a specific source and subject.,DB
+Get the titles of email templates with a specific technique ID and brand.,DB
+Retrieve email templates with a specific compromise rate and file ID.,DB
+Find email templates with a specific description and theme.,DB
+Get the titles of email templates with a specific technique ID and subject.,DB
+List email templates with a specific compromise rate below a certain value and industry.,DB
+Retrieve email templates with a specific file ID and mime type.,DB
+Find email templates with a specific title and file path.,DB
+Retrieve all verification tokens.,DB
+Find verification tokens with a specific type.,DB
+List verification tokens with a specific value.,DB
+Get the expiration timestamps of verification tokens for a specific user.,DB
+Find verification tokens for activated users.,DB
+Retrieve verification tokens with a specific user's email.,DB
+List verification tokens for users with a specific job role.,DB
+Find verification tokens for users with a specific company ID.,DB
+Get the activation status of users associated with verification tokens.,DB
+Retrieve verification tokens with a specific username.,DB
+List verification tokens for users with a specific phone number.,DB
+Find verification tokens with a specific super admin status.,DB
+Get the verification tokens for users with a specific role ID.,DB
+Retrieve verification tokens with a specific last name.,DB
+List verification tokens for users with a specific first name.,DB
+Find verification tokens for users with a specific company ID and job role.,DB
+Get the verification tokens for users with a specific activation status and super admin status.,DB
+Retrieve verification tokens with a specific verify time.,DB
+List verification tokens for users with a specific company ID and role ID.,DB
+Retrieve all projects.,DB
+Find projects with a specific name.,DB
+List projects of a specific type.,DB
+Get the project lead's ID for a specific project.,DB
+Find projects with a specific company ID.,DB
+Retrieve projects with a specific description.,DB
+List projects in a specific country.,DB
+Get the project's URL for a specific project.,DB
+Find projects in a specific industry.,DB
+List projects with a specific state.,DB
+Retrieve projects with a specific company size.,DB
+Get the company ID for a specific project.,DB
+Find projects in a specific zipcode.,DB
+List projects created after a specific date.,DB
+Get the names of projects with a specific type and company ID.,DB
+Retrieve projects with a specific project lead ID.,DB
+List projects with a specific company name.,DB
+Find projects with a specific company ID and type.,DB
+Get the project lead's ID for all projects.,DB
+Retrieve all campaigns.,DB
+Find campaigns with a specific name.,DB
+List campaigns of a specific type.,DB
+Get the campaign owner's name for a specific campaign.,DB
+Find campaigns with a specific status.,DB
+Retrieve campaigns with a specific technique ID.,DB
+List campaigns that are scheduled.,DB
+Get the campaign's schedule time for a specific campaign.,DB
+Find campaigns with a custom template.,DB
+Retrieve campaigns with a specific email profile ID.,DB
+List campaigns launched after a specific date.,DB
+Get the campaign's timezone for a specific campaign.,DB
+Find campaigns owned by a specific person.,DB
+Retrieve campaigns with reminders enabled.,DB
+List campaigns with auto-training enabled.,DB
+Get the campaign's auto-training ID for a specific campaign.,DB
+Find campaigns with a specific project ID.,DB
+Retrieve campaigns executed before a specific date.,DB
+List campaigns with a specific email profile ID and technique ID.,DB
+Get the names of campaigns with a specific status and type.,DB
+Retrieve all users.,DB
+Find a user by their email.,DB
+List users who are currently enabled.,DB
+Get the first and last names of a specific user.,DB
+Find users who belong to a specific company.,DB
+"Retrieve users who have the ""Admin"" role.",DB
+List users who have been offended.,DB
+Get the creation date of a specific user.,DB
+Find users who are both compromised and simulated.,DB
+Retrieve users who belong to a specific project.,DB
+List users who have not been compromised.,DB
+Get the role name of a specific user.,DB
+Find users who have been both compromised and offended.,DB
+Retrieve users who have been simulated but not offended.,DB
+List users who have been offended and belong to a specific company.,DB
+Get the email of a specific user.,DB
+Find users who belong to a specific project and have a certain role.,DB
+Retrieve users who have not been compromised and belong to a specific project.,DB
+List users who belong to a specific company and are currently enabled.,DB
+Get the total count of users.,DB
+Retrieve all users who have been caught in a campaign.,DB
+Find users who have opened emails in a campaign.,DB
+List users who have been trained in a campaign.,DB
+Get the campaign ID for a specific user.,DB
+Find users who are currently in a training campaign.,DB
+Retrieve all users who have not been caught in a campaign.,DB
+List users who have opened emails but have not been caught in a campaign.,DB
+Get the training ID for a specific user in a campaign.,DB
+Find users who have been trained but not yet sent in a campaign.,DB
+Retrieve all users who have been caught and opened emails in a campaign.,DB
+List users who have opened emails in a campaign and belong to a specific training campaign.,DB
+Get the number of users who have been caught in a campaign.,DB
+Find users who have been trained and belong to a specific campaign.,DB
+Retrieve all users who have been caught and opened emails but not yet trained in a campaign.,DB
+List users who have opened emails and belong to a specific training campaign in a campaign.,DB
+Get the campaign IDs for a specific user.,DB
+Find users who have been caught in a campaign and belong to a specific training campaign.,DB
+Retrieve all users who have been caught but not yet opened emails in a campaign.,DB
+List users who have been trained in a campaign and belong to a specific training campaign.,DB
+Retrieve the names of all campaigns with custom email templates.,DB
+Find the campaign ID with the most recent execution date.,DB
+List all campaigns that have been scheduled but not yet launched.,DB
+Get the number of campaigns with auto-training enabled.,DB
+Find the campaigns owned by a specific user.,DB
+Retrieve the campaign names with reminders enabled.,DB
+"List campaigns of a specific type (e.g., ""Marketing"").",DB
+Get the campaign IDs with a status code of 1.,DB
+Find campaigns related to a specific project.,DB
+Retrieve campaigns executed in a specific timezone.,DB
+List campaigns that are both scheduled and have custom templates.,DB
+Get the campaign names with a certain email profile ID.,DB
+Find campaigns where auto-training is enabled and reminders are disabled.,DB
+Retrieve campaigns executed in a specific timezone with custom templates.,DB
+List campaigns with custom templates that belong to a specific project.,DB
+Get the campaign names with reminders enabled and a specific email profile ID.,DB
+Find campaigns with a specific technique ID and auto-training enabled.,DB
+Retrieve campaigns with custom templates and a specific email profile ID.,DB
+List campaigns that are scheduled and have reminders enabled in a specific timezone.,DB
+Get the campaign names with auto-training enabled and a specific technique ID.,DB
+"Retrieve all email profiles with a specific protocol (e.g., ""SMTP"").",DB
+Find the names of projects with no associated email profiles.,DB
+"List all email profiles for a specific project by project name (e.g., ""Project A"").",DB
+"Get the email profiles with a specific server address (e.g., ""smtp.example.com"").",DB
+Find the project names and their associated email profiles.,DB
+"Retrieve all email profiles with a specific port number (e.g., 587).",DB
+List all projects with more than three associated email profiles.,DB
+"Get the email profiles for projects with ""Type A"" as their project type.",DB
+"Find the email profiles with usernames containing ""admin.""",DB
+Retrieve all projects with no associated email profiles.,DB
+List all email profiles with enabled status.,DB
+Get the project names and their associated email profiles for projects with a project lead.,DB
+Find the email profiles for projects created after a specific date.,DB
+Retrieve all projects with unique company IDs.,DB
+"List all email profiles with specific email addresses (e.g., ""example@example.com"").",DB
+Get the project names and their associated email profiles for projects without a project lead.,DB
+Find the email profiles with passwords containing a specific substring.,DB
+Retrieve all projects with a specific project lead ID.,DB
+List all email profiles with disabled status.,DB
+List all admins who are super admins.,DB
+Retrieve all admins who belong to a specific company by company ID.,DB
+"Get the first names of admins who have the job role ""Manager.""",DB
+Find all admins who have been activated and have a phone number.,DB
+List all admins who are not super admins.,DB
+"Get the usernames of admins with the last name ""Smith.""",DB
+"Retrieve all admins who have a specific email address (e.g., ""admin@example.com"").",DB
+"Find all admins who are super admins and have a job role of ""Admin Lead.""",DB
+Get the last names of admins who have not been activated.,DB
+List all admins who belong to a specific group by group ID.,DB
+Retrieve all admins who have a specific role by role ID.,DB
+"Find all admins who have been activated and have a job role of ""Analyst.""",DB
+"Get the email addresses of admins who have a specific job role (e.g., ""Developer"").",DB
+"Retrieve all admins who have a specific first name (e.g., ""John"").",DB
+Find all admins who belong to a specific project by project ID.,DB
+Get the usernames of admins who have been verified after a specific timestamp.,DB
+List all admins who are super admins and belong to a specific company by company ID.,DB
+"Retrieve all admins who have not been activated and have a job role of ""Support.""",DB
+"Find all admins who have a specific last name (e.g., ""Johnson"").",DB
+List all trigger names and groups for a specific scheduler.,DB
+Retrieve trigger details including description and trigger state for a given trigger name and group.,DB
+Find the next fire time for a trigger with a specific name and group.,DB
+Get the trigger names and groups associated with a specific job name and group.,DB
+List all triggers that have a specific trigger type.,DB
+Retrieve the trigger state for all triggers in the database.,DB
+Find the trigger names and groups with a specific misfire instruction.,DB
+Get trigger names and groups with a specific trigger state and next fire time.,DB
+List all trigger names and groups that belong to a specific job name and group.,DB
+Retrieve trigger details for triggers with a specific priority.,DB
+Find triggers with a specific calendar name.,DB
+Get trigger names and groups with a specific trigger state and misfire instruction.,DB
+List all trigger names and groups with next fire time in a specific range.,DB
+Retrieve trigger details for triggers in a specific scheduler and with a given trigger type.,DB
+Find triggers with a specific misfire instruction and trigger state.,DB
+Get trigger names and groups with a specific next fire time and trigger state.,DB
+List all trigger names and groups with a specific trigger type and priority.,DB
+Retrieve trigger details for triggers with a specific calendar name and trigger type.,DB
+"Find triggers with a specific next fire time, trigger state, and misfire instruction.",DB
+Retrieve all cron triggers and their cron expressions.,DB
+Find the job names and groups associated with a specific cron trigger.,DB
+List all cron triggers with a specific time zone.,DB
+Get cron triggers that have a specific trigger type.,DB
+Retrieve the next fire time for a specific cron trigger.,DB
+Find the cron triggers with a specific misfire instruction.,DB
+Get cron triggers that belong to a specific calendar name.,DB
+List all cron triggers with a specific priority.,DB
+Retrieve the job name and group for cron triggers with a specific trigger state.,DB
+Find cron triggers with a specific next fire time and trigger state.,DB
+Get cron triggers that have a specific description.,DB
+Retrieve cron triggers with a specific start time.,DB
+Find cron triggers with a specific end time and trigger state.,DB
+Get cron triggers with a specific trigger type and misfire instruction.,DB
+"Retrieve cron triggers with a specific job name, group, and trigger state.",DB
+Find cron triggers with a specific time zone and cron expression.,DB
+Get cron triggers with a specific trigger state and next fire time.,DB
+"Retrieve cron triggers with a specific job name and group, start time, and end time.",DB
+"Find cron triggers with a specific priority, misfire instruction, and trigger state.",DB
+Retrieve all simple triggers and their repeat counts.,DB
+Find the job names and groups associated with specific simple triggers.,DB
+List all simple triggers with a specific repeat interval.,DB
+Get simple triggers that have a specific trigger type.,DB
+Retrieve the next fire time for a specific simple trigger.,DB
+Find simple triggers with a specific misfire instruction.,DB
+Get simple triggers that belong to a specific calendar name.,DB
+List all simple triggers with a specific priority.,DB
+Retrieve the job name and group for simple triggers with a specific trigger state.,DB
+Find simple triggers with a specific next fire time and trigger state.,DB
+Get simple triggers that have a specific description.,DB
+Retrieve simple triggers with a specific start time.,DB
+Find simple triggers with a specific end time and trigger state.,DB
+Get simple triggers with a specific trigger type and misfire instruction.,DB
+"Retrieve simple triggers with a specific job name, group, and trigger state.",DB
+Find simple triggers with a specific repeat count and repeat interval.,DB
+Get simple triggers with a specific trigger state and next fire time.,DB
+"Retrieve simple triggers with a specific job name and group, start time, and end time.",DB
+"Find simple triggers with a specific repeat interval, trigger type, and trigger state.",DB
+"Get simple triggers with a specific trigger type, misfire instruction, and trigger state.",DB
+Retrieve all simple properties of triggers with a specific str_prop_1 value.,DB
+Find triggers with a specific bool_prop_2 value and their associated job names.,DB
+List triggers with specific int_prop_1 and int_prop_2 values.,DB
+Get triggers with a specific str_prop_3 value and their associated trigger groups.,DB
+Retrieve triggers with a specific long_prop_1 value and their trigger types.,DB
+Find triggers with a specific long_prop_2 value and their associated trigger states.,DB
+List triggers with a specific dec_prop_1 value and their associated descriptions.,DB
+Get triggers with a specific dec_prop_2 value and their priorities.,DB
+Retrieve triggers with a specific time_zone_id value and their next fire times.,DB
+Find triggers with a specific trigger_state value and their previous fire times.,DB
+List triggers with a specific trigger_type value and their calendar names.,DB
+Get triggers with a specific misfire_instr value and their job data.,DB
+Retrieve triggers with a specific job_name value and their descriptions.,DB
+Retrieve all trigger names from the qrtz_triggers table.,DB
+Find the trigger with the highest priority and its description.,DB
+List all triggers in a specific state and their trigger types.,DB
+Get the job names associated with triggers in a specific calendar.,DB
+Retrieve triggers with a specific misfire instruction value and their trigger groups.,DB
+Find triggers with a specific trigger type and their trigger groups.,DB
+List triggers with a specific trigger state and their job names.,DB
+Get the descriptions of triggers with a specific trigger group.,DB
+Retrieve triggers with a specific job name and their trigger states.,DB
+Find triggers with a specific job group and their next fire times.,DB
+List triggers with a specific trigger group and their previous fire times.,DB
+Get triggers with a specific start time and their end times.,DB
+Retrieve triggers with a specific end time and their job groups.,DB
+Find triggers with a specific calendar name and their trigger types.,DB
+List triggers with a specific trigger state and their misfire instructions.,DB
+Get the trigger names associated with triggers in a specific job group.,DB
+Retrieve triggers with a specific job class name and their trigger types.,DB
+Find triggers with a specific request recovery flag and their descriptions.,DB
+List triggers with a specific job data and their job names.,DB
+Get the trigger groups associated with triggers in a specific schedule name.,DB
+Retrieve all campaigns.,DB
+List the names of campaigns that have been executed.,DB
+Find the campaign names owned by 'John Doe'.,DB
+Get the campaign names that are scheduled.,DB
+Retrieve the names of campaigns with custom templates.,DB
+List the campaign names that have reminders.,DB
+Find the campaign names with reminders every 7 days.,DB
+Get the campaign names that belong to project ID 123.,DB
+Find the campaign names using a specific attack technique.,DB
+Retrieve campaigns launched after '2023-01-01'.,DB
+List the campaigns with 'Phishing' as the subject.,DB
+Find campaigns with 'Email' as the type.,DB
+Get the campaign names that are auto-training enabled.,DB
+Retrieve campaign names with reminders more than 3.,DB
+List campaigns with custom templates owned by 'Alice'.,DB
+Find campaigns scheduled after '2023-07-01'.,DB
+Get the campaign names owned by 'Bob' and are launched.,DB
+Retrieve campaigns executed on '2023-05-15'.,DB
+List campaigns with reminders every 14 days or more.,DB
+Find campaigns with a specific timezone.,DB
+Retrieve all training hubs.,DB
+List the names of enabled training hubs.,DB
+Find the IDs of training hubs with training templates.,DB
+Get the names of training videos with descriptions.,DB
+Retrieve the IDs of training hubs with a specific video.,DB
+List the names of training videos that are enabled.,DB
+Find training hubs created after '2023-01-01'.,DB
+Get the names of training videos with a specific poster.,DB
+Retrieve training hubs with training templates.,DB
+List the names of training videos with unique names.,DB
+Find training hubs with updated timestamps.,DB
+Get the names of training videos that are not enabled.,DB
+Retrieve training hubs with a specific ID.,DB
+List training videos with descriptions containing 'tips'.,DB
+Find training hubs that are not enabled.,DB
+Get the names of training videos with a specific path.,DB
+Retrieve training hubs with training templates and videos.,DB
+List training videos with descriptions not containing 'demo'.,DB
+Find training hubs created or updated after '2023-06-01'.,DB
+Retrieve all users in campaigns.,DB
+List users who have been caught.,DB
+Find users who have not been opened.,DB
+Get users who have been trained.,DB
+Retrieve all users who received training.,DB
+List users who have not received training.,DB
+Find users who are currently in training.,DB
+Get users who have been caught and opened.,DB
+Retrieve users who have been trained but not sent.,DB
+"List users who have been offended, compromised, or simulated.",DB
+Find users who belong to a specific company.,DB
+Get users who have not been updated.,DB
+Retrieve all users in a specific project.,DB
+List users with a specific role.,DB
+Find users who are enabled and not compromised.,DB
+Get users who have been compromised but not simulated.,DB
+Retrieve users who have been offended and belong to a specific role.,DB
+List users who have been caught in a specific campaign.,DB
+Find users who have been caught and trained in the same campaign.,DB
+Get users who have been trained in a specific training hub.,DB
+Retrieve all admin-project associations.,DB
+List projects that are enabled.,DB
+Find projects with a specific name.,DB
+Get projects with a specific type.,DB
+Retrieve projects that have an associated company.,DB
+List projects that do not have a company association.,DB
+Find projects with a specific project lead.,DB
+Get admin-project associations for a specific admin.,DB
+Retrieve projects associated with a specific admin.,DB
+List admin-project associations for a specific project.,DB
+Find projects with an associated admin.,DB
+Get projects that have a specific avatar.,DB
+Retrieve projects with specific types and enabled status.,DB
+List projects with names containing a specific keyword.,DB
+Find projects with a description matching a specific pattern.,DB
+Get projects associated with a specific company.,DB
+Retrieve admin-project associations for a specific project.,DB
+List projects that were updated recently.,DB
+Find projects with specific URLs.,DB
+Get projects that have both a company and a project lead.,DB
+Retrieve all enabled training templates.,DB
+Find the description of the template with ID 123.,DB
+List all templates related to phishing.,DB
+Get the titles of all templates.,DB
+Show all training templates created after a specific date.,DB
+Find templates that were last updated on a given date.,DB
+Retrieve the training ID and template ID pairs.,DB
+List all training templates with their corresponding hub.,DB
+Count the total number of training templates.,DB
+Find templates with a specific title.,DB
+Get the file path IDs of all templates.,DB
+Show all templates related to a specific hub.,DB
+Find templates created within a date range.,DB
+Retrieve the ID of the template with a specific description.,DB
+List all templates without a thumbnail.,DB
+Show all enabled training templates with their IDs.,DB
+Find templates associated with a specific file path ID.,DB
+Get the latest training template.,DB
+Find the total number of hub templates.,DB
+List all projects led by a specific admin.,DB
+Find the name and description of a specific project.,DB
+Retrieve all projects with enabled status.,DB
+Get the total number of projects.,DB
+Show all admins associated with a particular project.,DB
+Find projects created after a specific date.,DB
+Retrieve the type and URL of all projects.,DB
+List all projects without an avatar.,DB
+Find the administrators associated with a specific project.,DB
+Get the unique company ID for a specific project.,DB
+Find the latest project created.,DB
+Retrieve all admins linked to projects.,DB
+Show all projects of a particular type.,DB
+Get the project IDs associated with a specific admin.,DB
+List all projects related to a specific company.,DB
+Find projects last updated on a specific date.,DB
+Show all projects that are not enabled.,DB
+Find the project lead administrator for a specific project.,DB
+Count the total number of admin-project associations.,DB
+List all training templates.,DB
+Find the description of a specific training template.,DB
+Retrieve all enabled training templates.,DB
+Get the total number of training templates.,DB
+Show all documents with a specific MIME type.,DB
+Find documents created after a specific date.,DB
+Retrieve the size and extension of all documents.,DB
+List all documents with a specific file extension.,DB
+Find the training template associated with a specific file.,DB
+Get the MIME type of a specific document.,DB
+Find documents last updated on a specific date.,DB
+Show all enabled training templates with their titles.,DB
+Retrieve the node_ref of the document with a specific name.,DB
+List all documents with a size greater than a specific value.,DB
+Find the training template associated with a specific thumbnail.,DB
+Count the total number of documents.,DB
+Show all training templates related to phishing.,DB
+Find documents with a specific node reference.,DB
+Get the original names of all documents.,DB
+Retrieve the duration of a specific document.,DB
+List all campaign logs.,DB
+Find the caught users for a specific campaign log.,DB
+Retrieve all enabled campaign logs.,DB
+Get the total number of campaign logs.,DB
+Show all campaigns with a custom template.,DB
+Find campaigns created after a specific date.,DB
+Retrieve the type and owner of all campaigns.,DB
+List all campaigns with a specific status.,DB
+Find the campaign associated with a specific campaign log.,DB
+Get the subject of a specific campaign.,DB
+Find campaigns that are scheduled.,DB
+Show all enabled campaigns with their names.,DB
+Retrieve the owner of a campaign with a specific name.,DB
+List all campaigns with reminders enabled.,DB
+Find the campaign execution status for a specific campaign.,DB
+Get the campaign launch status for all campaigns.,DB
+Show all campaigns related to a specific project.,DB
+Find campaigns executed after a specific date and time.,DB
+Count the total number of campaigns with custom templates.,DB
+Retrieve the timezone for a specific campaign.,DB
+List all administrators.,DB
+Find the first and last names of a specific administrator.,DB
+Retrieve all enabled administrator accounts.,DB
+Get the total number of administrators.,DB
+Show all administrators with super admin privileges.,DB
+Find administrators created after a specific date.,DB
+Retrieve the job roles of all administrators.,DB
+List all administrators in a specific company.,DB
+Find administrators with a specific role.,DB
+Get the email addresses of all administrators.,DB
+Show all administrators with activated accounts.,DB
+Retrieve the usernames of administrators with super admin privileges.,DB
+List all companies in a specific country.,DB
+Find companies belonging to a specific industry.,DB
+Get the names of all companies.,DB
+Show all companies with more than a specific number of employees.,DB
+Find companies located in a specific state.,DB
+Retrieve the ZIP codes of all companies.,DB
+List all administrators with their associated companies.,DB
+Find the administrator with a specific email address.,DB
+Get the company size for a specific company.,DB
+List all training hubs.,DB
+Find the creation timestamp of a specific training hub.,DB
+Retrieve all enabled training hubs.,DB
+Get the total number of training hubs.,DB
+Show all training hubs with training templates.,DB
+Find training hubs created after a specific date.,DB
+Retrieve the description of all training videos.,DB
+List all training videos with unique names.,DB
+Find the training hub associated with a specific video.,DB
+Get the poster ID for a specific training video.,DB
+Find training videos with a specific description.,DB
+Show all enabled training hubs with their IDs.,DB
+Retrieve the names of all training videos.,DB
+List all training videos with a specific poster ID.,DB
+Find training hubs with videos associated with a specific document ID.,DB
+Count the total number of training videos.,DB
+Show all training hubs with videos related to a specific document.,DB
+Find the training hub with a specific creation timestamp.,DB
+Get the IDs of training videos with a specific name.,DB
+Retrieve the update timestamp of a specific training hub.,DB
+List all email templates.,DB
+Find the description of a specific email template.,DB
+Retrieve all enabled email templates.,DB
+Get the total number of email templates.,DB
+Show all email templates with a specific industry.,DB
+Find email templates created after a specific date.,DB
+Retrieve the titles of all email templates.,DB
+List all email templates with a specific compromise rate.,DB
+Find the email template associated with a specific technique.,DB
+Get the brand of a specific email template.,DB
+Find email templates with a specific source.,DB
+Show all enabled email templates with their subjects.,DB
+Retrieve the themes of all email templates.,DB
+List all email templates with a specific subject.,DB
+Find email templates with thumbnails linked to specific documents.,DB
+Count the total number of attack techniques.,DB
+Show all email templates with themes related to a specific industry.,DB
+Find the attack technique with a specific name.,DB
+Get the icons associated with all attack techniques.,DB
+Retrieve the names of all attack techniques.,DB
+List all email templates with specific file paths.,DB
+List all email templates.,DB
+Find the description of a specific email template.,DB
+Retrieve all enabled email templates.,DB
+Get the total number of email templates.,DB
+Show all email templates with a specific industry.,DB
+Find email templates created after a specific date.,DB
+Retrieve the titles of all email templates.,DB
+List all email templates with a specific compromise rate.,DB
+Find the email template associated with a specific technique.,DB
+Get the brand of a specific email template.,DB
+Find email templates with a specific source.,DB
+Show all enabled email templates with their subjects.,DB
+Retrieve the themes of all email templates.,DB
+List all email templates with a specific subject.,DB
+Find email templates with thumbnails linked to specific documents.,DB
+Count the total number of documents.,DB
+Show all email templates with themes related to a specific industry.,DB
+Find the document with a specific node reference.,DB
+Get the original names of all documents.,DB
+List all documents with a size greater than a specific value.,DB
+Find the document associated with a specific path.,DB
+Retrieve the duration of a specific document.,DB
+List all administrators.,DB
+Find the first and last names of a specific administrator.,DB
+Retrieve all enabled administrator accounts.,DB
+Get the total number of administrators.,DB
+Show all administrators with super admin privileges.,DB
+Find administrators created after a specific date.,DB
+Retrieve the job roles of all administrators.,DB
+List all administrators in a specific company.,DB
+Find administrators with a specific role.,DB
+Get the email addresses of all administrators.,DB
+Show all administrators with activated accounts.,DB
+Retrieve the usernames of administrators with super admin privileges.,DB
+List all roles.,DB
+Find the role with a specific name.,DB
+Get the names of all roles.,DB
+Show all administrators with their associated roles.,DB
+Find the administrator with a specific email address.,DB
+Get the role name for a specific administrator.,DB
+Retrieve the activation status of a specific administrator.,DB
+Find administrators with a specific phone number.,DB
+List all training videos.,DB
+Find the creation timestamp of a specific training video.,DB
+Retrieve all enabled training videos.,DB
+Get the total number of training videos.,DB
+Show all training videos with a specific name.,DB
+Find training videos created after a specific date.,DB
+Retrieve the descriptions of all training videos.,DB
+List all training videos with unique names.,DB
+Find the training video associated with a specific poster ID.,DB
+Get the poster ID for a specific training video.,DB
+Show all enabled training videos with their descriptions.,DB
+Retrieve the names of all training videos.,DB
+List all training videos with specific MIME types.,DB
+Find training videos with a specific file path.,DB
+Show all training videos with durations greater than a specific value.,DB
+Find training videos associated with specific documents by node reference.,DB
+Count the total number of documents.,DB
+Show all training videos with paths containing a specific substring.,DB
+Find the training video with a specific unique name.,DB
+Get the file extensions of all training videos.,DB
+Retrieve the IDs of training videos with a specific duration.,DB
+List all campaigns.,DB
+Find the name and subject of a specific campaign.,DB
+Retrieve all enabled campaigns.,DB
+Get the total number of campaigns.,DB
+Show all campaigns with custom templates.,DB
+Find campaigns created after a specific date.,DB
+Retrieve the owners of all campaigns.,DB
+List all campaigns with a specific status.,DB
+Find campaigns associated with a specific project.,DB
+Get the email profile ID for a specific campaign.,DB
+Show all campaigns with reminders enabled.,DB
+Retrieve the names of all campaigns.,DB
+List all campaigns with a specific execution status.,DB
+Find campaigns scheduled after a specific timestamp.,DB
+Get the techniques used in all campaigns.,DB
+Show all campaigns with auto-training enabled.,DB
+Retrieve the types of all campaigns.,DB
+List all email profiles.,DB
+Find the email profile associated with a specific campaign.,DB
+Get the passwords for all email profiles.,DB
+Show all campaigns with launched status.,DB
+List all users.,DB
+Find the first and last names of a specific user.,DB
+Retrieve all enabled user accounts.,DB
+Get the total number of users.,DB
+Show all users in a specific company.,DB
+Find users created after a specific date.,DB
+Retrieve the roles of all users.,DB
+List all users with specific roles.,DB
+Find users with a specific email address.,DB
+Get the last names of all users.,DB
+Show all users with compromised status.,DB
+Retrieve the first names of all users.,DB
+List all users who are offended.,DB
+Find users associated with a specific project.,DB
+Get the user ID for a specific email address.,DB
+Show all users who are simulated.,DB
+Retrieve the company names of all users.,DB
+List all users in a specific country.,DB
+Find users with specific ZIP codes.,DB
+Get the sizes of all companies where users are employed.,DB
+Show all users with their associated projects.,DB
+List all administrator-project associations.,DB
+Find the administrators associated with a specific project.,DB
+Retrieve all enabled projects.,DB
+Get the total number of projects.,DB
+Show all projects with specific types.,DB
+Find projects created after a specific date.,DB
+Retrieve the descriptions of all projects.,DB
+List all projects with specific project leads.,DB
+Find projects associated with a specific company.,DB
+Get the project names and URLs for all projects.,DB
+Show all projects with unique company associations.,DB
+Retrieve the names of all administrators associated with a specific project.,DB
+List all projects with specific descriptions.,DB
+Find projects with specific avatar URLs.,DB
+Show all projects with unique project lead associations.,DB
+Retrieve the types of all projects.,DB
+List all administrators associated with a specific project type.,DB
+Find projects with a specific project lead.,DB
+Get the project IDs for all projects with enabled statuses.,DB
+Show all administrators associated with multiple projects.,DB
+List all groups.,DB
+Find the name and description of a specific group.,DB
+Retrieve all enabled groups.,DB
+Get the total number of groups.,DB
+Show all groups in a specific project.,DB
+Find groups created after a specific date.,DB
+Retrieve the names of all groups.,DB
+List all groups with specific descriptions.,DB
+Find groups associated with a specific project type.,DB
+Get the group names and descriptions for all groups.,DB
+Show all groups with unique project associations.,DB
+Retrieve the descriptions of all groups.,DB
+List all groups with unique company associations.,DB
+Find groups with specific names.,DB
+Show all groups associated with a specific company.,DB
+Retrieve the IDs of all groups with enabled statuses.,DB
+List all groups with unique project lead associations.,DB
+Find groups with specific avatars.,DB
+Get the project IDs for all groups with specific descriptions.,DB
+Show all groups created before a specific timestamp.,DB
+Retrieve the types of all projects associated with groups.,DB
+List all administrators.,DB
+Find the first and last names of a specific administrator.,DB
+Retrieve all enabled administrator accounts.,DB
+Get the total number of administrators.,DB
+Show all administrators with specific job roles.,DB
+Find administrators created after a specific date.,DB
+Retrieve the usernames of all administrators.,DB
+List all administrators who are super admins.,DB
+Find administrators with specific email addresses.,DB
+Get the last names of all administrators.,DB
+Show all administrators who are activated.,DB
+Retrieve the company IDs of all administrators.,DB
+List all administrators with specific phone numbers.,DB
+Find administrators with specific usernames.,DB
+Get the IDs of all administrators with super admin status.,DB
+Show all administrators associated with a specific company.,DB
+Retrieve the email addresses of all administrators.,DB
+List all administrators with unique role associations.,DB
+Find administrators with specific verification times.,DB
+Get the job roles of all administrators.,DB
+List all training templates.,DB
+Find the descriptions and titles of specific training templates.,DB
+Retrieve all enabled training templates.,DB
+Get the total number of training templates.,DB
+Show all training templates with specific descriptions.,DB
+Find training templates created after a specific date.,DB
+Retrieve the titles of all training templates.,DB
+List all training templates related to phishing.,DB
+Find training templates with specific titles.,DB
+Get the IDs of all training templates with enabled statuses.,DB
+Show all training templates with unique thumbnail image references.,DB
+Retrieve the descriptions of all training templates.,DB
+List all training templates with specific file path IDs.,DB
+Find training templates associated with specific document types.,DB
+Show all training templates with unique document node references.,DB
+Retrieve the IDs of all training templates with phishing content.,DB
+List all training templates with specific thumbnail image IDs.,DB
+Find training templates associated with specific file extensions.,DB
+Get the titles and descriptions of training templates.,DB
+Show all training templates with unique original document names.,DB
+List all users.,DB
+Find the first and last names of a specific user.,DB
+Retrieve all enabled user accounts.,DB
+Get the total number of users.,DB
+Show all users with specific email addresses.,DB
+Find users created after a specific date.,DB
+Retrieve the first names of all users.,DB
+List all users who are offended.,DB
+Find users with specific last names.,DB
+Get the IDs of all users with enabled statuses.,DB
+Show all users associated with a specific company.,DB
+Retrieve the last names of all users.,DB
+List all users who are compromised.,DB
+Find users with specific first names.,DB
+Get the role IDs of all users.,DB
+Show all users associated with a specific project.,DB
+Retrieve the IDs of all users with simulated status.,DB
+List all users with unique company associations.,DB
+Find users with specific email addresses and compromised status.,DB
+Get the first and last names of users.,DB
+Show all users associated with specific groups.,DB
+Retrieve the email addresses of all users.,DB
+List all campaign email templates.,DB
+Find the custom templates of specific campaign email templates.,DB
+Retrieve all enabled campaign email templates.,DB
+Get the total number of campaign email templates.,DB
+Show all campaign email templates with specific custom templates.,DB
+Find campaign email templates created after a specific date.,DB
+Retrieve the titles of all email templates.,DB
+List all campaign email templates with specific campaign IDs.,DB
+Find campaign email templates associated with specific email template IDs.,DB
+Get the IDs of all campaign email templates with enabled statuses.,DB
+Show all campaign email templates with unique campaign IDs.,DB
+Retrieve the descriptions of all email templates.,DB
+List all campaign email templates with specific custom templates and campaign IDs.,DB
+Find campaign email templates associated with specific attack techniques.,DB
+Show all campaign email templates with unique email template IDs.,DB
+Retrieve the titles and descriptions of email templates.,DB
+List all campaign email templates with specific compromise rates.,DB
+Find campaign email templates associated with specific brands.,DB
+Get the custom templates and email template IDs of campaign email templates.,DB
+Show all campaign email templates with unique subject lines.,DB
+List all user-group associations.,DB
+Find the users belonging to specific groups.,DB
+Retrieve all enabled user-group associations.,DB
+Get the total number of user-group associations.,DB
+Show all user-group associations with specific users.,DB
+Find user-group associations created after a specific date.,DB
+Retrieve the group IDs of all user-group associations.,DB
+List all user-group associations with specific groups.,DB
+Find user-group associations associated with specific users.,DB
+Get the user IDs of all user-group associations.,DB
+Show all user-group associations with unique user IDs.,DB
+Retrieve the descriptions of all groups.,DB
+List all user-group associations with specific created dates.,DB
+Find user-group associations associated with specific groups.,DB
+Get the project IDs associated with specific groups.,DB
+Show all user-group associations with unique group IDs.,DB
+Retrieve the names of all groups.,DB
+List all user-group associations with specific user and group combinations.,DB
+Find user-group associations associated with specific project IDs.,DB
+List all users associated with specific campaigns.,DB
+Find the campaigns in which specific users participated and were caught.,DB
+Retrieve all enabled campaigns.,DB
+Get the total number of users in campaigns.,DB
+Show all users who completed training in specific campaigns.,DB
+Find campaigns created after a specific date.,DB
+Retrieve the campaign IDs of all user-campaign associations.,DB
+List all users who were caught in campaigns and opened campaign emails.,DB
+Find campaigns associated with specific users and training in progress.,DB
+Get the user IDs of all users in campaigns.,DB
+Show all users who completed training in campaigns with enabled statuses.,DB
+Retrieve the names of all campaigns.,DB
+List all users in campaigns with specific caught and trained statuses.,DB
+Find campaigns associated with specific training IDs.,DB
+Get the campaign IDs of all user-campaign associations with training sent.,DB
+Show all users who completed training in campaigns with training sent.,DB
+Retrieve the names and owners of campaigns.,DB
+List all users who were caught in campaigns with specific campaign and user combinations.,DB
+Find campaigns associated with specific project IDs.,DB
+List all administrators associated with specific groups.,DB
+Find the groups to which specific administrators belong.,DB
+Retrieve all enabled groups.,DB
+Get the total number of administrators in specific groups.,DB
+Show all administrators associated with specific projects.,DB
+Find groups created after a specific date.,DB
+Retrieve the group IDs of all administrator-group associations.,DB
+List all administrators associated with specific groups and projects.,DB
+Find administrators associated with specific projects and groups.,DB
+Get the administrator IDs of all administrator-group associations.,DB
+Show all administrators who belong to groups with enabled statuses.,DB
+Retrieve the names of all groups.,DB
+List all administrators who belong to groups with specific descriptions.,DB
+Find groups associated with specific administrators and projects.,DB
+Get the project IDs associated with specific groups.,DB
+Show all administrators who belong to groups with unique group IDs.,DB
+Retrieve the descriptions of all groups.,DB
+List all administrators who belong to groups with specific names.,DB
+Find groups associated with specific administrator IDs.,DB
+List all offended techniques in a specific project.,DB
+Find the count of offenses for a specific technique in a project.,DB
+Retrieve all enabled attack techniques.,DB
+Get the total number of offended techniques.,DB
+Show all offended techniques with a count greater than a specific value.,DB
+Find techniques created after a specific date.,DB
+Retrieve the technique IDs of all offended technique entries.,DB
+List all offended techniques in a specific project with counts.,DB
+Find the names of all enabled attack techniques.,DB
+Get the project IDs associated with specific offended techniques.,DB
+Show all offended techniques with unique IDs.,DB
+Retrieve the descriptions of all attack techniques.,DB
+List all offended techniques with counts greater than specific values.,DB
+Find techniques associated with specific project IDs and count values.,DB
+Get the count of offenses for a specific technique in projects.,DB
+Show all offended techniques with specific names.,DB
+Retrieve the names of attack techniques with unique names.,DB
+List all offended techniques associated with specific attack technique IDs.,DB
+Find the project IDs associated with specific offended techniques.,DB
+List all training templates associated with a specific training hub.,DB
+Find the training hub that has specific training templates.,DB
+Retrieve all enabled training hubs.,DB
+Get the total number of training hubs.,DB
+Show all training hubs with training templates.,DB
+Find training hubs created after a specific date.,DB
+Retrieve the training hub IDs associated with specific templates.,DB
+List all training templates associated with specific training hubs.,DB
+Find training hubs associated with specific training templates.,DB
+Get the template IDs of all training hub-template associations.,DB
+Show all training hubs with unique IDs.,DB
+Retrieve the descriptions of all training hubs.,DB
+List all training hubs with specific conditions on training templates.,DB
+Find training hubs associated with specific IDs and conditions.,DB
+Get the video IDs associated with specific training hubs.,DB
+Show all training hubs with specific attributes.,DB
+Retrieve the names of training templates associated with a training hub.,DB
+List all training hubs associated with specific template IDs.,DB
+List all offended techniques in a specific project.,DB
+Find the count of offenses for a specific technique in a project.,DB
+Retrieve all enabled projects.,DB
+Get the total number of projects.,DB
+Show all projects with avatars.,DB
+Find projects created after a specific date.,DB
+Retrieve the project IDs associated with specific techniques.,DB
+List all projects associated with specific project lead IDs.,DB
+Find projects with unique names.,DB
+Get the count of offenses for specific techniques in projects.,DB
+Show all projects with specific types.,DB
+Retrieve project descriptions with unique values.,DB
+List all projects associated with specific company IDs.,DB
+Find projects with avatars and specific types.,DB
+Get the project IDs associated with specific descriptions.,DB
+Show all offended techniques with specific counts.,DB
+Retrieve the names of all projects.,DB
+List all projects associated with specific company IDs and types.,DB
+Find projects with unique avatars.,DB
+Get the count of offenses for a specific technique in projects.,DB
+List all users in a specific project.,DB
+Find the user's information by their email.,DB
+Retrieve all enabled users.,DB
+Get the total number of users.,DB
+Show all users with compromised status.,DB
+Find users created after a specific date.,DB
+Retrieve the user IDs associated with specific roles.,DB
+List all users associated with specific project IDs.,DB
+Find users with unique first names.,DB
+Get the offended status of users with specific IDs.,DB
+Show all users with specific roles.,DB
+Retrieve user last names with unique values.,DB
+List all users associated with specific company IDs.,DB
+Find users with compromised status and specific roles.,DB
+Get the project IDs associated with specific user IDs.,DB
+Show all users with specific attributes.,DB
+Retrieve the first names of all users.,DB
+List all users associated with specific company IDs and roles.,DB
+Find users with compromised status and unique last names.,DB
+Get the user IDs of compromised users.,DB
+List all campaigns with a custom template.,DB
+Find campaigns with a specific status.,DB
+Retrieve campaigns executed after a certain date.,DB
+Get the names of all campaigns.,DB
+Show all campaigns associated with a specific project ID.,DB
+Find campaigns with reminders enabled.,DB
+Get the campaign IDs with automatic training.,DB
+List all campaigns associated with a specific email profile ID.,DB
+Find campaigns with a specific type and launched status.,DB
+Retrieve the campaign IDs with a specific technique ID.,DB
+Show all campaigns scheduled for a particular timezone.,DB
+Find campaigns with reminders and a specific frequency.,DB
+Get the campaign owner names for campaigns with custom templates.,DB
+Retrieve campaigns that are not scheduled.,DB
+List all campaigns associated with a specific project ID and type.,DB
+Find campaigns executed within a specific timeframe.,DB
+Get the campaign names associated with specific email profiles.,DB
+Show all campaigns with automatic training and no reminders.,DB
+Retrieve the campaign IDs associated with a specific project ID and type.,DB
+Find all users who were caught in a campaign.,DB
+Retrieve the user IDs who were trained.,DB
+Show all users who have not been compromised.,DB
+Get the user email addresses that were sent a campaign.,DB
+List users who have been simulated.,DB
+Find users who opened a campaign and were caught.,DB
+Retrieve the user IDs who have not been trained.,DB
+Get the user details for those who have been offended.,DB
+Show users who have not been sent a campaign.,DB
+List all users who are associated with a specific project ID.,DB
+Find users who are not compromised and have not been trained.,DB
+Retrieve the user IDs who have not been caught.,DB
+Get the user email addresses for those who have been sent training.,DB
+Show users who have been trained and are currently in training.,DB
+List all users associated with a specific company ID.,DB
+Find users who have been compromised and are offended.,DB
+Retrieve the user IDs for those who have been simulated and offended.,DB
+Get the user details for users who have been trained but not caught.,DB
+Show users who have been compromised and are associated with a project.,DB
+Find all campaign names and their owners.,DB
+Retrieve the campaign IDs with scheduled reminders.,DB
+Show the names of campaigns executed after a certain timestamp.,DB
+Get the campaign subjects and their associated attack techniques.,DB
+List campaigns that are not enabled.,DB
+Find campaigns that have custom templates and are scheduled.,DB
+Retrieve the campaign IDs with auto-training enabled.,DB
+Show the names of campaigns with a specific status.,DB
+Get campaign IDs and their corresponding project IDs.,DB
+List campaigns that have not been launched.,DB
+Find campaigns that belong to a specific project.,DB
+Retrieve the campaign names that use a custom template.,DB
+Show campaigns executed within a certain timezone.,DB
+Get campaign names that are not associated with attack techniques.,DB
+Find campaigns that have reminders with a specific frequency.,DB
+Retrieve the campaign IDs that were last updated.,DB
+Show the names of campaigns with owners whose names start with 'A'.,DB
+Get campaign IDs that do not have associated email profiles.,DB
+List campaigns executed before a certain timestamp.,DB
+Find campaigns that are scheduled but not launched.,DB
+Find all training video names and their descriptions.,DB
+Retrieve the IDs of training videos with a specific poster.,DB
+Show the names of training videos with a certain file extension.,DB
+Get the names of training videos with a duration greater than 60.,DB
+List training videos that are not enabled.,DB
+Find training videos with a specific MIME type.,DB
+Retrieve training video IDs with unique names.,DB
+Show the descriptions of training videos with certain file sizes.,DB
+Get training video IDs that were last updated.,DB
+Find training videos with specific file paths.,DB
+List training videos with no associated documents.,DB
+Retrieve training video names that are not enabled.,DB
+Show the names of training videos that are not unique.,DB
+Get training video IDs with descriptions containing 'tutorial'.,DB
+Find training videos created after a specific timestamp.,DB
+Retrieve training video names with certain poster IDs.,DB
+Get training video IDs with descriptions containing 'demo'.,DB
+Show the names of training videos with a certain file extension.,DB
+List training videos with unique original names.,DB
+Find training videos that are associated with documents.,DB
+Find all email templates with their titles and subjects.,DB
+Retrieve the IDs of email templates with a specific technique.,DB
+Show the titles of email templates with a certain compromise rate.,DB
+Get the descriptions of email templates with specific file paths.,DB
+List email templates that are not enabled.,DB
+Find email templates with a specific MIME type.,DB
+Retrieve email template IDs with unique subjects.,DB
+Show the descriptions of email templates with a certain brand.,DB
+Get email template IDs that were last updated.,DB
+Find email templates with specific file extensions.,DB
+List email templates with no associated documents.,DB
+Retrieve email template titles that are not enabled.,DB
+Show the titles of email templates that are not unique.,DB
+Get email template IDs with descriptions containing 'tutorial'.,DB
+Find email templates created after a specific timestamp.,DB
+Retrieve email template titles with certain brands.,DB
+Get email template IDs with descriptions containing 'demo'.,DB
+Show the titles of email templates with a certain file extension.,DB
+List email templates with unique original names.,DB
+Find email templates that are associated with documents.,DB
+Retrieve all verification tokens with their values and expiration.,DB
+Get the IDs of verification tokens with a specific user ID.,DB
+Show the types of verification tokens that are expired.,DB
+Find verification tokens with a specific type and user ID.,DB
+List verification tokens that are not expired.,DB
+Get the values of verification tokens with a specific type.,DB
+Retrieve verification token IDs for a specific user.,DB
+Show the types of verification tokens that are not expired.,DB
+Get verification tokens with specific values.,DB
+Find verification tokens that are associated with a user.,DB
+List verification tokens with unique types.,DB
+Retrieve verification tokens with specific types and values.,DB
+Get verification token IDs that were last updated.,DB
+Find verification tokens with values containing 'xyz'.,DB
+Show the types of verification tokens associated with a user.,DB
+Get verification token IDs that are not associated with users.,DB
+Retrieve verification token values for a specific user.,DB
+Find verification tokens created after a specific timestamp.,DB
+List verification tokens associated with administrators.,DB
+Get verification token IDs with types not equal to 4.,DB
+Show the types of verification tokens associated with administrators.,DB
+Retrieve the names of all projects.,DB
+Find the project description for a specific project.,DB
+Show the types of projects available.,DB
+List all projects with their avatars.,DB
+Get the project lead IDs for each project.,DB
+Find projects with a specific project lead ID.,DB
+Retrieve projects in a specific country.,DB
+List projects ordered by their creation date.,DB
+Show project IDs for projects in the 'Technology' industry.,DB
+Get the project names that are enabled.,DB
+Find projects with descriptions containing the word 'research.',DB
+Retrieve the project types for a specific company.,DB
+List projects with unique company IDs.,DB
+Show the countries where companies are based for each project.,DB
+Get the project names with unique ZIP codes.,DB
+Find projects that have a project lead assigned.,DB
+Retrieve projects with specific names and types.,DB
+Show the project lead IDs for projects in a specific state.,DB
+Get the project names for projects with a specific company ID.,DB
+Find projects that were last updated.,DB
+List projects with their descriptions and avatars for enabled projects.,DB
+Retrieve the names of all campaigns.,DB
+Find the campaign type for a specific campaign.,DB
+Show the campaign owners for all campaigns.,DB
+List all projects with their names and types.,DB
+Get the campaign IDs that are scheduled.,DB
+Find campaigns with a specific project ID.,DB
+Retrieve campaigns in a specific timezone.,DB
+List campaigns ordered by their creation date.,DB
+Show the campaign subjects for campaigns with custom templates.,DB
+Get the project lead IDs for each project.,DB
+Find campaigns with a specific technique ID.,DB
+Retrieve campaigns with specific reminder settings.,DB
+List campaigns that are not auto-training.,DB
+Show the campaign names with a particular owner.,DB
+Get the campaign names that were last updated.,DB
+Find campaigns with a specific email profile ID.,DB
+Retrieve campaigns with a certain status.,DB
+List campaigns launched after a specific date.,DB
+Show campaigns associated with a particular attack technique.,DB
+Get the campaign names with unique project IDs.,DB
+Retrieve the names of all users.,DB
+Find the role names for all roles.,DB
+List all users along with their email addresses.,DB
+Get the user IDs that are currently enabled.,DB
+Find users with specific role IDs.,DB
+Retrieve users with a specific project ID.,DB
+Show users who are part of a simulated scenario.,DB
+Get the email addresses of users in a specific project.,DB
+List users ordered by their creation date.,DB
+Find users who have not been compromised.,DB
+Retrieve users who are offended.,DB
+Show users with a specific role name.,DB
+Get the user IDs for users who have been compromised.,DB
+Find users belonging to a specific company.,DB
+List users based on their last update timestamp.,DB
+Show users with a specific email address.,DB
+Get the number of users with each unique role.,DB
+Find users who are both enabled and not part of a simulated scenario.,DB
+Retrieve users associated with a particular company and project.,DB
+List users with their role names.,DB
+Retrieve a list of users who participated in a specific campaign.,DB
+Find users who have been caught in any campaign.,DB
+List campaigns in which a particular user participated.,DB
+Get a count of users who have opened campaign emails.,DB
+Show users who have not been trained in any campaign.,DB
+Retrieve a list of users who are currently undergoing training.,DB
+Find users who have completed their training.,DB
+Get the campaign IDs for campaigns where a particular user is caught.,DB
+List campaigns that have custom training templates.,DB
+Show users who have been sent campaign emails.,DB
+Retrieve a list of users who have participated in multiple campaigns.,DB
+Find campaigns that do not have custom training templates.,DB
+Get users who have not been caught or opened campaign emails.,DB
+List campaigns in which a particular user is undergoing training.,DB
+Show users who have been caught and trained in any campaign.,DB
+Retrieve a list of users who have participated in campaigns with reminders.,DB
+Find campaigns that have no users undergoing training.,DB
+Get users who have not been sent campaign emails.,DB
+List campaigns in which a particular user has been caught.,DB
+Show users who have not participated in any campaign.,DB
+Retrieve email templates associated with a specific campaign.,DB
+Find campaigns that have custom email templates.,DB
+List campaigns that are currently scheduled.,DB
+Get email templates associated with a particular campaign.,DB
+Show campaigns that have been executed.,DB
+Retrieve the email template ID used in a specific campaign.,DB
+List campaigns that are not scheduled.,DB
+Find email templates that are custom and enabled.,DB
+Get the owner of a specific campaign.,DB
+Show campaigns that have reminders enabled.,DB
+Retrieve campaigns that have custom templates and are launched.,DB
+Find email templates associated with campaigns owned by a specific user.,DB
+List campaigns that are not executed.,DB
+Get the campaign ID for a specific email template.,DB
+Show campaigns that are not enabled.,DB
+Retrieve email templates that are not associated with any campaign.,DB
+Find campaigns that do not have custom templates.,DB
+Get campaigns that have custom templates and are enabled.,DB
+List email templates associated with campaigns that have reminders.,DB
+Show campaigns that are launched and have custom templates.,DB
+Retrieve the email profile for a specific project.,DB
+Find projects that have an associated email profile.,DB
+List email profiles that are currently enabled.,DB
+Get the email profile username for a specific project.,DB
+Show projects that are not currently enabled.,DB
+Retrieve the email profile password for a specific project.,DB
+List projects that do not have an associated email profile.,DB
+Find email profiles that use a specific email server.,DB
+Get the project name associated with a particular email profile.,DB
+Show projects that belong to a specific company.,DB
+Retrieve the email profile port for a specific project.,DB
+Find projects that have a specific project lead.,DB
+Get the project ID for a specific email profile.,DB
+List email profiles that use a specific email protocol.,DB
+Show projects that have a unique company reference.,DB
+Retrieve the project description associated with a particular email profile.,DB
+Find email profiles that have a specific email address.,DB
+Get the project type for a specific project.,DB
+Show projects that do not have an associated company.,DB
+Retrieve the email profile name for a specific project.,DB
+List all administrators who are super admins.,DB
+Find all administrators who are not currently enabled.,DB
+Retrieve the email address of a specific admin by their username.,DB
+Show administrators who belong to a specific company.,DB
+Get the full name and job role of an admin by their ID.,DB
+Find all administrators who have not been activated.,DB
+List administrators and their associated projects.,DB
+Get the username and phone number of a specific admin by their email.,DB
+Retrieve all administrators' first and last names.,DB
+Show administrators who are associated with a specific role.,DB
+Find administrators who have a specific job role.,DB
+List administrators who are enabled and belong to a particular company.,DB
+Get the email address and activation status of a specific admin by their ID.,DB
+Retrieve administrators who have been verified within a specific time frame.,DB
+Show administrators who have not been verified yet.,DB
+Find administrators who have a unique email address.,DB
+List administrators who are not super admins and belong to a company.,DB
+Get the last update timestamp for a specific admin by their username.,DB
+Retrieve administrators who have the same first name.,DB
+Show administrators who have not set a phone number.,DB
+Find all blob triggers associated with a specific scheduler.,DB
+Retrieve the trigger state for a specific trigger by its name and group.,DB
+List all triggers that have a misfire instruction defined.,DB
+Show trigger details for a specific scheduler and trigger name.,DB
+Get the description of a specific trigger by its name and group.,DB
+Retrieve all triggers associated with a specific job.,DB
+Find triggers with a specific trigger type.,DB
+List triggers with a specific trigger state.,DB
+Show triggers with a specific priority.,DB
+Get the next fire time for a specific trigger.,DB
+Retrieve triggers that have an associated calendar.,DB
+Find triggers that have a specific job data.,DB
+List all triggers that are currently in a specific trigger state.,DB
+Show triggers with a specific misfire instruction.,DB
+Get the previous fire time for a specific trigger.,DB
+Retrieve triggers that are scheduled to end before a certain time.,DB
+Find triggers that have a specific next fire time and trigger state.,DB
+List triggers with a specific trigger group.,DB
+Show triggers with a specific scheduler name.,DB
+Retrieve triggers that are associated with a specific job and job group.,DB
+Find all cron triggers associated with a specific scheduler.,DB
+Retrieve the trigger state for a specific trigger by its name and group.,DB
+List all triggers that have a misfire instruction defined.,DB
+Show trigger details for a specific scheduler and trigger name.,DB
+Get the description of a specific trigger by its name and group.,DB
+Retrieve all triggers associated with a specific job.,DB
+Find triggers with a specific trigger type.,DB
+List triggers with a specific trigger state.,DB
+Show triggers with a specific priority.,DB
+Get the next fire time for a specific trigger.,DB
+Retrieve triggers that have an associated calendar.,DB
+Find triggers that have a specific job data.,DB
+List all triggers that are currently in a specific trigger state.,DB
+Show triggers with a specific misfire instruction.,DB
+Get the previous fire time for a specific trigger.,DB
+Retrieve triggers that are scheduled to end before a certain time.,DB
+Find triggers that have a specific next fire time and trigger state.,DB
+List triggers with a specific trigger group.,DB
+Show triggers with a specific scheduler name.,DB
+Retrieve triggers that are associated with a specific job and job group.,DB
+Find all simple triggers associated with a specific scheduler.,DB
+Retrieve the trigger state for a specific trigger by its name and group.,DB
+List all triggers with a specific repeat count.,DB
+Show trigger details for a specific scheduler and trigger name.,DB
+Get the description of a specific trigger by its name and group.,DB
+Retrieve all triggers associated with a specific job.,DB
+Find triggers with a specific trigger type.,DB
+List triggers with a specific trigger state.,DB
+Show triggers with a specific priority.,DB
+Get the next fire time for a specific trigger.,DB
+Retrieve triggers that have an associated calendar.,DB
+Find triggers that have a specific job data.,DB
+List all triggers that are currently in a specific trigger state.,DB
+Show triggers with a specific misfire instruction.,DB
+Get the previous fire time for a specific trigger.,DB
+Retrieve triggers that are scheduled to end before a certain time.,DB
+Find triggers that have a specific next fire time and trigger state.,DB
+List triggers with a specific trigger group.,DB
+Show triggers with a specific scheduler name.,DB
+Retrieve triggers that are associated with a specific job and job group.,DB
+Find all triggers with a specific string property value.,DB
+Retrieve trigger properties with a specific integer value.,DB
+List triggers with a specific long property value.,DB
+Show trigger details for a specific scheduler and trigger name.,DB
+Get the next fire time for a trigger with a specific boolean property.,DB
+Retrieve triggers with a specific time zone ID.,DB
+Find triggers with a specific numeric property value.,DB
+List triggers that are currently in a specific trigger state.,DB
+Show triggers with a specific priority.,DB
+Get the previous fire time for a specific trigger.,DB
+Retrieve triggers with a specific boolean property value.,DB
+Find triggers with a specific misfire instruction.,DB
+List triggers with a specific calendar name.,DB
+Show triggers associated with a specific job and job group.,DB
+Retrieve triggers that have a specific start time.,DB
+Find triggers with specific string properties.,DB
+List triggers with specific long properties.,DB
+Show triggers with a specific trigger type.,DB
+Get trigger properties associated with a specific scheduler and trigger.,DB
+Retrieve triggers with specific boolean properties.,DB
+List all trigger details for a specific scheduler.,DB
+Show triggers with a specific trigger type.,DB
+Retrieve trigger properties for a specific job.,DB
+Get triggers that are currently in a specific trigger state.,DB
+Find triggers with a specific misfire instruction.,DB
+List triggers with specific priority.,DB
+Show triggers with specific next fire times.,DB
+Retrieve triggers with specific previous fire times.,DB
+Find triggers associated with a specific job class name.,DB
+List triggers with specific calendar names.,DB
+Show triggers for a specific job group.,DB
+Get triggers with a specific start time.,DB
+Retrieve triggers with specific end times.,DB
+Find triggers with a specific description.,DB
+List triggers requesting recovery.,DB
+Show triggers that are non-concurrent.,DB
+Get trigger details for a specific trigger name and group.,DB
+Retrieve triggers with specific trigger names and groups.,DB
+Find triggers based on job data content.,DB
+List all triggers in a specific scheduler ordered by priority.,DB
+Retrieve all active users in the system.,DB
+List the names of all projects.,DB
+Get the email addresses of users who are both compromised and offended.,DB
+Show the total count of users in each project.,DB
+Find the names of projects with a specific project lead.,DB
+Retrieve the email profiles used for a particular project.,DB
+List all campaigns that have been executed.,DB
+Show the names of users who have not been compromised.,DB
+Get the campaign names that are scheduled.,DB
+Find the projects with specific project types.,DB
+Retrieve the usernames of super administrators.,DB
+List the job names and job groups for durable jobs.,DB
+Show the descriptions of triggers with a specific trigger type.,DB
+Get the email templates associated with a particular technique.,DB
+Find the trigger names with specific misfire instructions.,DB
+Retrieve the project names for companies in a specific industry.,DB
+List the unique role names in the system.,DB
+Show the subjects of campaigns launched in a specific timezone.,DB
+Get the cron expressions for triggers associated with a particular job.,DB
+Retrieve all campaigns owned by a specific user.,DB
+List the names of groups associated with administrators.,DB
+Get the project names with enabled reminders.,DB
+Show the count of offended users in each project.,DB
+Find the unique names of attack techniques.,DB
+Retrieve the job class names for non-concurrent jobs.,DB
+List the campaign names with custom templates.,DB
+Show the description of triggers with a specific priority.,DB
+Get the usernames of administrators in a specific group.,DB
+Find the email profiles using a specific email server.,DB
+Retrieve the projects with a specific country and industry.,DB
+List the job names and groups for jobs that require recovery.,DB
+Show the campaign names that are auto-training enabled.,DB
+Get the usernames of super administrators in a specific company.,DB
+Find the project names led by a specific project lead.,DB
+Retrieve the usernames of users associated with a specific role.,DB
+List the campaign names with specific reminder frequencies.,DB
+Show the company names in a specific state.,DB
+Get the job names and descriptions for jobs that are updateable.,DB
+Find the campaign names with specific execution statuses.,DB
+Retrieve the campaign names launched after a specific date.,DB
+List the names of projects in a specific industry.,DB
+Show the names and descriptions of campaigns using a specific email profile.,DB
+Get the usernames of administrators associated with a specific project.,DB
+Find the campaign names owned by a user and with specific execution statuses.,DB
+Retrieve the names of projects where the project lead has a specific job role.,DB
+List the email template titles used in campaigns with a certain compromise rate.,DB
+Show the names of users who have not been offended or compromised.,DB
+Get the campaign names with custom templates owned by a user in a specific timezone.,DB
+Find the project names with enabled reminders and specific project types.,DB
+Retrieve the usernames of super administrators in a specific state and country.,DB
+List the job names and descriptions for jobs with specific trigger types.,DB
+Show the campaign names that are auto-training enabled and executed.,DB
+Get the project names led by a specific project lead with a particular company size.,DB
+Find the usernames of users associated with a specific role in a project.,DB
+List the campaign names with specific reminder frequencies and execution statuses.,DB
+Show the company names in a specific zip code.,DB
+Get the job names and descriptions for jobs that are non-concurrent and have specific trigger states.,DB
+Retrieve the project names where the project lead's last name starts with 'S'.,DB
+List the email profiles that are enabled and have a specific protocol.,DB
+Show the campaign names that have a specific subject and were executed before a certain date.,DB
+Get the usernames of administrators who are super admins and have been activated.,DB
+Find the project names with specific project types and enabled status.,DB
+Retrieve the campaign names with a certain execution status and specific techniques.,DB
+List the usernames of users who are associated with both a project and a company.,DB
+Show the project names that have a project lead with a specific job role.,DB
+Get the campaign names owned by a specific user and scheduled for execution.,DB
+Find the project names in a specific industry and state.,DB
+Retrieve the campaign names with custom templates and a specific launch status.,DB
+List the job names and descriptions for jobs with specific misfire instructions.,DB
+Show the usernames of administrators associated with a specific company and role.,DB
+Get the email profile names used in campaigns with compromised status.,DB
+Find the campaign names with specific reminder numbers and scheduled times.,DB
+Retrieve the project names with enabled reminders and a specific company size.,DB
+List the company names in a specific country and industry.,DB
+Show the campaign names that are executed and have auto-training enabled.,DB
+Get the usernames of super administrators in a specific timezone.,DB
+Find the names of active email profiles using the SMTP protocol.,DB
+"Retrieve the campaign names that were executed before January 1, 2023, and had the subject ""Product Launch.""",DB
+Show the usernames of administrators who are super admins and have been activated.,DB
+Get the project names for projects in the 'Finance' industry and located in 'New York.',DB
+List the campaign names that are scheduled for execution and owned by user 'Alice.',DB
+Retrieve the project names that have project leads with the job role 'Manager.',DB
+Find the usernames of users who belong to both a project and a company.,DB
+Show the email profiles used in campaigns with the 'Compromised' status.,DB
+Get the campaign names with custom templates and that have been launched.,DB
+List the job names and descriptions for jobs with misfire instructions 1 or 2.,DB
+Retrieve the project names in the 'Technology' industry and 'California' state.,DB
+Find the campaign names with reminders set to 3 and scheduled between July and August 2023.,DB
+Show the usernames of administrators associated with company ID 123 and role ID 456.,DB
+Get the company names in the 'United Kingdom' and 'Technology' industry.,DB
+Find the campaign names that are executed and have auto-training enabled.,DB
+Retrieve the usernames of super administrators in the 'PST' timezone.,DB
+List the project names with enabled reminders and associated with companies with more than 500 employees.,DB
+Show the campaign names that have a custom template and belong to projects in the 'Healthcare' industry.,DB
+Find the names of administrators who have not been activated yet.,DB
+Retrieve the campaign names that have an email profile associated with a 'Gmail' server.,DB
+"Show the project names that have not been updated since January 1, 2023.",DB
+Get the email profiles that use a 'Secure' protocol and have a port number greater than 5000.,DB
+"List the campaign names that were launched in 'EST' timezone and have the subject ""Promotion.""",DB
+"Retrieve the usernames of users who are offended, compromised, and simulated.",DB
+Find the project names that are associated with a 'Small' company in the 'Finance' industry.,DB
+Get the campaign names with reminders set to 5 or more.,DB
+Show the usernames of super administrators in the 'PST' timezone.,DB
+List the project names with enabled reminders and associated with companies in the 'Technology' industry.,DB
+Find the campaign names that have a custom template and belong to projects in the 'Healthcare' industry.,DB
+Retrieve the names of administrators who have the job role 'Manager' and are part of projects with the project lead 'John Doe.',DB
+Show the campaign names that have been executed and are associated with email profiles having a 'High' compromise rate.,DB
+Get the project names that have project leads with a job role containing the word 'Director.',DB
+List the usernames of users who belong to both a project and a company and have the role 'Analyst.',DB
+Find the campaign names that have reminders enabled and were scheduled for execution between June and July 2023.,DB
+Retrieve the company names in the 'United Kingdom' with more than 100 employees.,DB
+Show the email profiles used in campaigns with the 'Scheduled' status.,DB
+Get the usernames of administrators who are not super admins and have a phone number specified.,DB

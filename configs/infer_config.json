@@ -1,0 +1,11 @@
+{
+  "model_checkpoint_path": "models/codegen-2B-mono",
+  "input_text": [
+      "List all the campaigns.",
+      "List number of admins in the database.",
+      "Find the projects that have the same project lead as another project.",
+      "Hello, How are you?",
+      "What is cybersecurity?",
+      "What is PHISHCODE?"
+  ]
+}

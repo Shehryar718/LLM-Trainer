@@ -1,0 +1,13 @@
+{
+  "model_checkpoint_path": "models/intent_classifier.pkl",
+  "input_text": [
+      "List all the campaigns.",
+      "List number of admins in the database.",
+      "Count the total number of projects in the database.",
+      "Find the projects that have the same project lead as another project.",
+      "What is the best practice to follow when combating malware attacks?",
+      "What weather is outside?",
+      "Hello, How are you?",
+      "What is cybersecurity?"
+  ]
+}
